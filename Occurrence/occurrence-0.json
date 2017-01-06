@@ -14279,5 +14279,27 @@
 },
 "model":"Geography.locality",
 "pk":489
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4736286,
+"adm2":4714720,
+"coordinate_uncertainty":null,
+"dirtmap":"North side of Farm-to-Market Road 253, 2.0 road miles W of Texas Highway 87",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-93.8369 30.4275)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"30.4275\u00b0N -93.8369\u00b0W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":490
 }
 ]

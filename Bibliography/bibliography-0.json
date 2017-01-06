@@ -3209,6 +3209,14 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":840
+},
+"model":"Bibliography.ref",
+"pk":405
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -12256,6 +12264,26 @@
 },
 "model":"Bibliography.person",
 "pk":906
+},
+{
+"fields":{
+"first_name":"Gregory B.",
+"first_name_ascii":"Gregory B.",
+"last_name":"Pauly",
+"last_name_ascii":"Pauly"
+},
+"model":"Bibliography.person",
+"pk":907
+},
+{
+"fields":{
+"first_name":"Travis J.",
+"first_name_ascii":"Travis J.",
+"last_name":"LaDuc",
+"last_name_ascii":"LaDuc"
+},
+"model":"Bibliography.person",
+"pk":908
 },
 {
 "fields":{
@@ -22726,6 +22754,24 @@
 },
 {
 "fields":{
+"person":907,
+"person_role":1,
+"ref":405
+},
+"model":"Bibliography.contribution",
+"pk":1175
+},
+{
+"fields":{
+"person":908,
+"person_role":1,
+"ref":405
+},
+"model":"Bibliography.contribution",
+"pk":1176
+},
+{
+"fields":{
 "issn":"2071-5773",
 "journal_name":"Herpetology Notes",
 "prior_names":""
@@ -28454,5 +28500,19 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":404
+},
+{
+"fields":{
+"doi":"",
+"issue":"1",
+"journal":6,
+"page_end":"100",
+"page_start":"100",
+"title":"NERODIA ERYTHROGASTER (Yellow-bellied Watersnake). DIET.",
+"volume":"40",
+"year_published":2009
+},
+"model":"Bibliography.journalarticle",
+"pk":405
 }
 ]
