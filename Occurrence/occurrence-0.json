@@ -3639,6 +3639,23 @@
 },
 {
 "fields":{
+"adm0":3658394,
+"adm1":3657986,
+"adm2":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Bilsa Biological Station",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":217
+},
+{
+"fields":{
 "adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
@@ -14240,5 +14257,27 @@
 },
 "model":"Geography.locality",
 "pk":488
+},
+{
+"fields":{
+"adm0":3658394,
+"adm1":3657986,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"400.00",
+"elevation_start":"400.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":217,
+"point":"SRID=4326;POINT (-79.8 0.46)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"0.46\u00b0N -79.8\u00b0W",
+"verbatim_elevation":"400 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":489
 }
 ]
