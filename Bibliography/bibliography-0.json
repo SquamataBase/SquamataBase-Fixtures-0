@@ -3201,6 +3201,14 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":839
+},
+"model":"Bibliography.ref",
+"pk":404
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -12228,6 +12236,26 @@
 },
 "model":"Bibliography.person",
 "pk":904
+},
+{
+"fields":{
+"first_name":"Juan F.",
+"first_name_ascii":"Juan F.",
+"last_name":"Freile",
+"last_name_ascii":"Freile"
+},
+"model":"Bibliography.person",
+"pk":905
+},
+{
+"fields":{
+"first_name":"George",
+"first_name_ascii":"George",
+"last_name":"Fletcher-Lazo",
+"last_name_ascii":"Fletcher-Lazo"
+},
+"model":"Bibliography.person",
+"pk":906
 },
 {
 "fields":{
@@ -22680,6 +22708,24 @@
 },
 {
 "fields":{
+"person":905,
+"person_role":1,
+"ref":404
+},
+"model":"Bibliography.contribution",
+"pk":1173
+},
+{
+"fields":{
+"person":906,
+"person_role":1,
+"ref":404
+},
+"model":"Bibliography.contribution",
+"pk":1174
+},
+{
+"fields":{
 "issn":"2071-5773",
 "journal_name":"Herpetology Notes",
 "prior_names":""
@@ -28394,5 +28440,19 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":403
+},
+{
+"fields":{
+"doi":"",
+"issue":"1",
+"journal":6,
+"page_end":"100",
+"page_start":"99",
+"title":"MICRURUS ANCORALIS (Regal Coralsnake). DIET.",
+"volume":"40",
+"year_published":2009
+},
+"model":"Bibliography.journalarticle",
+"pk":404
 }
 ]
