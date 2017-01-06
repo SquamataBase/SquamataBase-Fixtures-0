@@ -3185,6 +3185,14 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":837
+},
+"model":"Bibliography.ref",
+"pk":402
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -12172,6 +12180,26 @@
 },
 "model":"Bibliography.person",
 "pk":900
+},
+{
+"fields":{
+"first_name":"Elisa",
+"first_name_ascii":"Elisa",
+"last_name":"Cabrera Guzm\u00e1n",
+"last_name_ascii":"Cabrera Guzman"
+},
+"model":"Bibliography.person",
+"pk":901
+},
+{
+"fields":{
+"first_name":"Fahd Henry",
+"first_name_ascii":"Fahd Henry",
+"last_name":"Carmona Torres",
+"last_name_ascii":"Carmona Torres"
+},
+"model":"Bibliography.person",
+"pk":902
 },
 {
 "fields":{
@@ -22579,6 +22607,33 @@
 },
 {
 "fields":{
+"person":901,
+"person_role":1,
+"ref":402
+},
+"model":"Bibliography.contribution",
+"pk":1168
+},
+{
+"fields":{
+"person":902,
+"person_role":1,
+"ref":402
+},
+"model":"Bibliography.contribution",
+"pk":1169
+},
+{
+"fields":{
+"person":750,
+"person_role":1,
+"ref":402
+},
+"model":"Bibliography.contribution",
+"pk":1170
+},
+{
+"fields":{
 "issn":"2071-5773",
 "journal_name":"Herpetology Notes",
 "prior_names":""
@@ -28265,5 +28320,19 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":401
+},
+{
+"fields":{
+"doi":"",
+"issue":"1",
+"journal":6,
+"page_end":"99",
+"page_start":"99",
+"title":"LEPTODEIRA SEPTENTRIONALIS (Cat-eyed snake). DIET.",
+"volume":"40",
+"year_published":2009
+},
+"model":"Bibliography.journalarticle",
+"pk":402
 }
 ]
