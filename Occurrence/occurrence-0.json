@@ -14218,5 +14218,27 @@
 },
 "model":"Geography.locality",
 "pk":487
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3450387,
+"adm2":6323092,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"972.00",
+"elevation_start":"972.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-50.413238 -27.565577)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-27.5651\u00b0S -50.4128\u00b0W",
+"verbatim_elevation":"972 m",
+"verbatim_srid":4291
+},
+"model":"Geography.locality",
+"pk":488
 }
 ]
