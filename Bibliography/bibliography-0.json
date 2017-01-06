@@ -3177,6 +3177,14 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":836
+},
+"model":"Bibliography.ref",
+"pk":401
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -12134,6 +12142,36 @@
 },
 "model":"Bibliography.person",
 "pk":897
+},
+{
+"fields":{
+"first_name":"Matthew B.",
+"first_name_ascii":"Matthew B.",
+"last_name":"Connior",
+"last_name_ascii":"Connior"
+},
+"model":"Bibliography.person",
+"pk":898
+},
+{
+"fields":{
+"first_name":"Idun",
+"first_name_ascii":"Idun",
+"last_name":"Guenther",
+"last_name_ascii":"Guenther"
+},
+"model":"Bibliography.person",
+"pk":899
+},
+{
+"fields":{
+"first_name":"Thomas S.",
+"first_name_ascii":"Thomas S.",
+"last_name":"Risch",
+"last_name_ascii":"Risch"
+},
+"model":"Bibliography.person",
+"pk":900
 },
 {
 "fields":{
@@ -22514,6 +22552,33 @@
 },
 {
 "fields":{
+"person":898,
+"person_role":1,
+"ref":401
+},
+"model":"Bibliography.contribution",
+"pk":1165
+},
+{
+"fields":{
+"person":899,
+"person_role":1,
+"ref":401
+},
+"model":"Bibliography.contribution",
+"pk":1166
+},
+{
+"fields":{
+"person":900,
+"person_role":1,
+"ref":401
+},
+"model":"Bibliography.contribution",
+"pk":1167
+},
+{
+"fields":{
 "issn":"2071-5773",
 "journal_name":"Herpetology Notes",
 "prior_names":""
@@ -28186,5 +28251,19 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":400
+},
+{
+"fields":{
+"doi":"",
+"issue":"1",
+"journal":6,
+"page_end":"98",
+"page_start":"98",
+"title":"LAMPROPELTIS CALLIGASTER CALLIGASTER (Prairie Kingsnake). DIET.",
+"volume":"40",
+"year_published":2009
+},
+"model":"Bibliography.journalarticle",
+"pk":401
 }
 ]
