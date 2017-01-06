@@ -3193,6 +3193,14 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":838
+},
+"model":"Bibliography.ref",
+"pk":403
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -12200,6 +12208,26 @@
 },
 "model":"Bibliography.person",
 "pk":902
+},
+{
+"fields":{
+"first_name":"Ivo",
+"first_name_ascii":"Ivo",
+"last_name":"Rohling Ghizoni Jr.",
+"last_name_ascii":"Rohling Ghizoni Jr."
+},
+"model":"Bibliography.person",
+"pk":903
+},
+{
+"fields":{
+"first_name":"Luciana K.",
+"first_name_ascii":"Luciana K.",
+"last_name":"Erdtmann",
+"last_name_ascii":"Erdtmann"
+},
+"model":"Bibliography.person",
+"pk":904
 },
 {
 "fields":{
@@ -22634,6 +22662,24 @@
 },
 {
 "fields":{
+"person":903,
+"person_role":1,
+"ref":403
+},
+"model":"Bibliography.contribution",
+"pk":1171
+},
+{
+"fields":{
+"person":904,
+"person_role":1,
+"ref":403
+},
+"model":"Bibliography.contribution",
+"pk":1172
+},
+{
+"fields":{
 "issn":"2071-5773",
 "journal_name":"Herpetology Notes",
 "prior_names":""
@@ -28334,5 +28380,19 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":402
+},
+{
+"fields":{
+"doi":"",
+"issue":"1",
+"journal":6,
+"page_end":"99",
+"page_start":"99",
+"title":"LIOPHIS POECILOGYRUS (Yellow-bellied Liophis). DIET.",
+"volume":"40",
+"year_published":2009
+},
+"model":"Bibliography.journalarticle",
+"pk":403
 }
 ]
