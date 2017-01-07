@@ -3656,6 +3656,57 @@
 },
 {
 "fields":{
+"adm0":3624060,
+"adm1":3623064,
+"adm2":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Gandoca-Manzanillo Wildlife Refuge",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":218
+},
+{
+"fields":{
+"adm0":3624060,
+"adm1":3623484,
+"adm2":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"La Selva Biological Station",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":219
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5393021,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Monte Bello Pond, Santa Cruz Mountains",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":220
+},
+{
+"fields":{
 "adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
@@ -14301,5 +14352,71 @@
 },
 "model":"Geography.locality",
 "pk":490
+},
+{
+"fields":{
+"adm0":3624060,
+"adm1":3623064,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"3.00",
+"elevation_start":"3.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":218,
+"point":"SRID=4326;POINT (-82.70522200000001 9.637888999999999)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"9.637889\u00b0N -82.705222\u00b0W",
+"verbatim_elevation":"3 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":491
+},
+{
+"fields":{
+"adm0":3624060,
+"adm1":3623484,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"Near the 300 meter mark of the Sendero Oriental Trail",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":219,
+"point":"SRID=4326;POINT (-83.98 10.43)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"10.43\u00b0N -83.98\u00b0W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":492
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5393021,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"576.00",
+"elevation_start":"576.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":220,
+"point":"SRID=4326;POINT (-122.18548 37.32108)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"37.32108\u00b0N -122.18548\u00b0W",
+"verbatim_elevation":"576 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":493
 }
 ]
