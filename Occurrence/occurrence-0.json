@@ -3810,6 +3810,23 @@
 {
 "fields":{
 "adm0":3469034,
+"adm1":3471168,
+"adm2":6320911,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Fazenda Floryl",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":227
+},
+{
+"fields":{
+"adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
 "coordinate_uncertainty":null,
@@ -14762,5 +14779,137 @@
 },
 "model":"Geography.locality",
 "pk":504
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3471168,
+"adm2":6320911,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"900.00",
+"elevation_start":"900.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":227,
+"point":"SRID=4326;POINT (-45.891612 -14.047145)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-14.0467\u00b0S -45.89124\u00b0W",
+"verbatim_elevation":"900 m",
+"verbatim_srid":4291
+},
+"model":"Geography.locality",
+"pk":505
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3402362,
+"adm2":3392343,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-39.33824 -3.8213)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-3.8213\u00b0S -39.33824\u00b0W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":506
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3523272,
+"adm2":8583658,
+"coordinate_uncertainty":null,
+"dirtmap":"near San Pedro de los Metates",
+"elevation_end":"2500.00",
+"elevation_start":"2500.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-99.878 19.905)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"19.905\u00b0N -99.878\u00b0W",
+"verbatim_elevation":"ca. 2500 m",
+"verbatim_srid":4269
+},
+"model":"Geography.locality",
+"pk":507
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3523272,
+"adm2":8583658,
+"coordinate_uncertainty":null,
+"dirtmap":"near La Estancia",
+"elevation_end":"2725.00",
+"elevation_start":"2725.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-99.803 19.862)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"19.862\u00b0N -99.803\u00b0W",
+"verbatim_elevation":"ca. 2725 m",
+"verbatim_srid":4269
+},
+"model":"Geography.locality",
+"pk":508
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3523272,
+"adm2":8583666,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"2520.00",
+"elevation_start":"2520.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":"2520 m",
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":509
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3523272,
+"adm2":8583658,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"2720.00",
+"elevation_start":"2720.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-99.803 19.863)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"19.863\u00b0N -99.803\u00b0W",
+"verbatim_elevation":"2720 m",
+"verbatim_srid":4269
+},
+"model":"Geography.locality",
+"pk":510
 }
 ]
