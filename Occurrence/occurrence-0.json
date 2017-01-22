@@ -3962,6 +3962,40 @@
 },
 {
 "fields":{
+"adm0":6252001,
+"adm1":5128638,
+"adm2":5128316,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Carle Place Train Station",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":236
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3522542,
+"adm2":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Rancho Fraile",
+"point":null,
+"remark":"",
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":237
+},
+{
+"fields":{
 "adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
@@ -15421,5 +15455,115 @@
 },
 "model":"Geography.locality",
 "pk":527
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3455077,
+"adm2":6322870,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-48.5 -25.75)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-25\u00b045'S -48\u00b030'W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":528
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3455077,
+"adm2":6322836,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-52.469444 -23.618611)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-23\u00b037'7''S -52\u00b028'10''W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":529
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3455077,
+"adm2":6322732,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-53.766667 -25.333333)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-25\u00b020'S -53\u00b046'W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":530
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5128638,
+"adm2":5128316,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"30.00",
+"elevation_start":"30.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":236,
+"point":"SRID=4326;POINT (-73.605278 40.748889)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"40\u00b044'56''N -73\u00b036'19''W",
+"verbatim_elevation":"30 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":531
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3522542,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"435.00",
+"elevation_start":"435.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":237,
+"point":"SRID=4326;POINT (-99.77030600000001 25.922559)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"25\u00b055'20''N -99\u00b046'12''W",
+"verbatim_elevation":"435 m",
+"verbatim_srid":4267
+},
+"model":"Geography.locality",
+"pk":532
 }
 ]

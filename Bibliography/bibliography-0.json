@@ -3505,6 +3505,30 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":886
+},
+"model":"Bibliography.ref",
+"pk":442
+},
+{
+"fields":{
+"ref_type":5,
+"wb":888
+},
+"model":"Bibliography.ref",
+"pk":443
+},
+{
+"fields":{
+"ref_type":5,
+"wb":889
+},
+"model":"Bibliography.ref",
+"pk":444
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -13122,6 +13146,56 @@
 },
 "model":"Bibliography.person",
 "pk":963
+},
+{
+"fields":{
+"first_name":"Igor",
+"first_name_ascii":"Igor",
+"last_name":"Soares De Oliveira",
+"last_name_ascii":"Soares De Oliveira"
+},
+"model":"Bibliography.person",
+"pk":964
+},
+{
+"fields":{
+"first_name":"Mitzi",
+"first_name_ascii":"Mitzi",
+"last_name":"Oliveira Da Silva",
+"last_name_ascii":"Oliveira Da Silva"
+},
+"model":"Bibliography.person",
+"pk":965
+},
+{
+"fields":{
+"first_name":"Robert W.",
+"first_name_ascii":"Robert W.",
+"last_name":"Mendyk",
+"last_name_ascii":"Mendyk"
+},
+"model":"Bibliography.person",
+"pk":966
+},
+{
+"fields":{
+"first_name":"Jorge A.",
+"first_name_ascii":"Jorge A.",
+"last_name":"Contreras Lozano",
+"last_name_ascii":"Contreras Lozano"
+},
+"model":"Bibliography.person",
+"pk":967
+},
+{
+"fields":{
+"first_name":"Armando Jesus",
+"first_name_ascii":"Armando Jesus",
+"last_name":"Contreras Balderas",
+"last_name_ascii":"Contreras Balderas"
+},
+"model":"Bibliography.person",
+"pk":968
 },
 {
 "fields":{
@@ -24438,6 +24512,60 @@
 },
 {
 "fields":{
+"person":964,
+"person_role":1,
+"ref":442
+},
+"model":"Bibliography.contribution",
+"pk":1269
+},
+{
+"fields":{
+"person":965,
+"person_role":1,
+"ref":442
+},
+"model":"Bibliography.contribution",
+"pk":1270
+},
+{
+"fields":{
+"person":966,
+"person_role":1,
+"ref":443
+},
+"model":"Bibliography.contribution",
+"pk":1271
+},
+{
+"fields":{
+"person":967,
+"person_role":1,
+"ref":444
+},
+"model":"Bibliography.contribution",
+"pk":1272
+},
+{
+"fields":{
+"person":596,
+"person_role":1,
+"ref":444
+},
+"model":"Bibliography.contribution",
+"pk":1273
+},
+{
+"fields":{
+"person":968,
+"person_role":1,
+"ref":444
+},
+"model":"Bibliography.contribution",
+"pk":1274
+},
+{
+"fields":{
 "issn":"2071-5773",
 "journal_name":"Herpetology Notes",
 "prior_names":""
@@ -30684,5 +30812,47 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":441
+},
+{
+"fields":{
+"doi":"",
+"issue":"1",
+"journal":6,
+"page_end":"70",
+"page_start":"70",
+"title":"PHRYNOHYAS SPP. (Golden-eyed Treefrogs). PREDATION.",
+"volume":"38",
+"year_published":2007
+},
+"model":"Bibliography.journalarticle",
+"pk":442
+},
+{
+"fields":{
+"doi":"",
+"issue":"1",
+"journal":6,
+"page_end":"82",
+"page_start":"82",
+"title":"PODARCIS SICULA CAMPESTRIS (Italian Wall Lizard). PREDATION.",
+"volume":"38",
+"year_published":2007
+},
+"model":"Bibliography.journalarticle",
+"pk":443
+},
+{
+"fields":{
+"doi":"",
+"issue":"1",
+"journal":6,
+"page_end":"83",
+"page_start":"82",
+"title":"SCELOPORUS CYANOGENYS (Blue Spiny Lizard). PREDATION.",
+"volume":"38",
+"year_published":2007
+},
+"model":"Bibliography.journalarticle",
+"pk":444
 }
 ]
