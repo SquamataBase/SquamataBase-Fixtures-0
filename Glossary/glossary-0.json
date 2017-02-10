@@ -1103,5 +1103,25 @@
 },
 "model":"Glossary.ontologyterm",
 "pk":101
+},
+{
+"fields":{
+"collection":6,
+"definition":"Refusal of a predator organism to eat a prey organism in captivity.",
+"parent":null,
+"term":"prey_refused"
+},
+"model":"Glossary.ontologyterm",
+"pk":102
+},
+{
+"fields":{
+"collection":9,
+"definition":"When a predator seizes and prey and maintains a restraining hold on it until struggling of the prey ceases.",
+"parent":null,
+"term":"bite_and_hold"
+},
+"model":"Glossary.ontologyterm",
+"pk":103
 }
 ]
