@@ -22451,6 +22451,31 @@
 },
 {
 "fields":{
+"alimentary_pos":"",
+"basis":41,
+"conditions":12,
+"context":14,
+"end_time":null,
+"event_date":"2016-03-03",
+"habitat":50,
+"ingestion_direction":null,
+"locality":543,
+"outcome":6,
+"predator":1761,
+"prey":1762,
+"prey_capture_mode":null,
+"prey_handle_mode":64,
+"ref":447,
+"remark":"Snake fell from the roof of the lodge holding a bat in a posterior coil but died 50 minutes later without attempting to eat the bat (presumed internal injury from fall). Post-mortem revealed a second bat already in its stomach.",
+"start_time":"19:57",
+"verbatim_habitat":"Eaves of a roof",
+"wb":908
+},
+"model":"FoodRecord.foodrecord",
+"pk":901
+},
+{
+"fields":{
 "end_date":"2012-03",
 "mass_prey_eaten":null,
 "mass_unit":null,

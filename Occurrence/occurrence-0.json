@@ -4064,6 +4064,23 @@
 },
 {
 "fields":{
+"adm0":3932488,
+"adm1":3935619,
+"adm2":3927937,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Refugio Amazonas Lodge",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":242
+},
+{
+"fields":{
 "adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
@@ -15853,5 +15870,27 @@
 },
 "model":"Geography.locality",
 "pk":542
+},
+{
+"fields":{
+"adm0":3932488,
+"adm1":3935619,
+"adm2":3927937,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"206.00",
+"elevation_start":"206.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":242,
+"point":"SRID=4326;POINT (-69.40673 -12.87224)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-12.87224\u00b0S -69.40673\u00b0W",
+"verbatim_elevation":"206 m a.s.l.",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":543
 }
 ]
