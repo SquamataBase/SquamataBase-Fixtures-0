@@ -4897,6 +4897,142 @@
 },
 {
 "fields":{
+"adm0":3624060,
+"adm1":3621837,
+"adm2":3622808,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Zona Protectora El Rodeo",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":291
+},
+{
+"fields":{
+"adm0":3703430,
+"adm1":3703433,
+"adm2":3707960,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Llano Largo, Corregimiento de Guadalupe",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":292
+},
+{
+"fields":{
+"adm0":3703430,
+"adm1":3703433,
+"adm2":3703439,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Cerro Anc\u00f3n, Corregimiento de Anc\u00f3n",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":293
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":4017698,
+"adm2":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Sierra Las Cacachilas",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":294
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3995012,
+"adm2":8582410,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Santa Teresa",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":295
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3527213,
+"adm2":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Parque Nacional Grutas de Cacahuamilpa",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":296
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":4004156,
+"adm2":8582167,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Universidad de Guadalajara",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":297
+},
+{
+"fields":{
+"adm0":3617476,
+"adm1":3617722,
+"adm2":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"La Bruja Cave, Parque Nacional Volc\u00e1n Masaya",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":298
+},
+{
+"fields":{
 "adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
@@ -18842,5 +18978,335 @@
 },
 "model":"Geography.locality",
 "pk":640
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3463930,
+"adm2":6321968,
+"coordinate_uncertainty":null,
+"dirtmap":"Near Povoa\u00e7\u00e3o, 30 km from the town of Linhares",
+"elevation_end":"0.00",
+"elevation_start":"0.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-39.766667 -19.55)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-19\u00b033'S -39\u00b046'W",
+"verbatim_elevation":"sea level",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":641
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3522509,
+"adm2":8582675,
+"coordinate_uncertainty":null,
+"dirtmap":"Road to Puerto Escondido-Oaxaca (131), 5.8 km E of San Juan Lachao",
+"elevation_end":"958.00",
+"elevation_start":"958.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-97.069861 16.153878)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"16.153878\u00b0N -97.069861\u00b0W",
+"verbatim_elevation":"958 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":642
+},
+{
+"fields":{
+"adm0":3624060,
+"adm1":3621837,
+"adm2":3622808,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"630.00",
+"elevation_start":"630.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":291,
+"point":"SRID=4326;POINT (-84.292284 9.926815)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"9.926815\u00b0N -84.292284\u00b0W",
+"verbatim_elevation":"630 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":643
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3520887,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":"",
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":644
+},
+{
+"fields":{
+"adm0":3703430,
+"adm1":3703433,
+"adm2":3707960,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"76.00",
+"elevation_start":"76.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":292,
+"point":"SRID=4326;POINT (-79.801025 8.844089)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"8.844089\u00b0N -79.801025\u00b0W",
+"verbatim_elevation":"76 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":645
+},
+{
+"fields":{
+"adm0":3703430,
+"adm1":3703433,
+"adm2":3703439,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"100.00",
+"elevation_start":"100.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":293,
+"point":"SRID=4326;POINT (-79.54944399999999 8.957222)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"8.957222\u00b0N -79.549444\u00b0W",
+"verbatim_elevation":"~100 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":646
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":4017698,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"7 km N of San Bartolo",
+"elevation_end":"551.00",
+"elevation_start":"551.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-109.916563 23.757145)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"23.757145\u00b0N -109.916563\u00b0W",
+"verbatim_elevation":"551 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":647
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":4017698,
+"adm2":6942826,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"15.00",
+"elevation_start":"15.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-110.327423 24.115772)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"24.115772\u00b0N -110.327423\u00b0W",
+"verbatim_elevation":"15 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":648
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":4017698,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"428.00",
+"elevation_start":"428.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":294,
+"point":"SRID=4326;POINT (-110.05983 24.06073)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"24.06073\u00b0N -110.05983\u00b0W",
+"verbatim_elevation":"428 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":649
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3995012,
+"adm2":8582410,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"1977.00",
+"elevation_start":"1977.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":295,
+"point":"SRID=4326;POINT (-104.6964 22.228344)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"22.228344\u00b0N -104.6964\u00b0W",
+"verbatim_elevation":"1977 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":650
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3527213,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"1220.00",
+"elevation_start":"1220.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":296,
+"point":"SRID=4326;POINT (-99.48999999999999 18.67)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"18\u00b040'12''N -99\u00b029'24''W",
+"verbatim_elevation":"1220 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":651
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3995955,
+"adm2":8582310,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"2006.00",
+"elevation_start":"2006.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-101.145503 19.672256)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"19\u00b040'20.12''N -101\u00b008'43.81''W",
+"verbatim_elevation":"2006 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":652
+},
+{
+"fields":{
+"adm0":3608932,
+"adm1":null,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"Bachi Kiamp",
+"elevation_end":"40.00",
+"elevation_start":"40.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-84.4157 15.144233)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"15\u00b08.654'N -84\u00b024.942'W",
+"verbatim_elevation":"40 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":653
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":4004156,
+"adm2":8582167,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"10.00",
+"elevation_start":"10.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":297,
+"point":"SRID=4326;POINT (-105.221639 20.704117)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"20\u00b042'14.82''N -105\u00b013'17.9''W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":654
+},
+{
+"fields":{
+"adm0":3617476,
+"adm1":3617722,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"477.00",
+"elevation_start":"477.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":298,
+"point":"SRID=4326;POINT (-86.1677 11.97905)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"11.97905\u00b0N -86.1677\u00b0W",
+"verbatim_elevation":"477 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":655
 }
 ]
