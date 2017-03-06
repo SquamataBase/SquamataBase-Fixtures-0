@@ -3914,7 +3914,7 @@
 {
 "fields":{
 "ref_type":3,
-"wb":1027
+"wb":1048
 },
 "model":"Bibliography.ref",
 "pk":493
