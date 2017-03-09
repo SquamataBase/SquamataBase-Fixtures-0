@@ -1123,5 +1123,15 @@
 },
 "model":"Glossary.ontologyterm",
 "pk":103
+},
+{
+"fields":{
+"collection":2,
+"definition":"",
+"parent":null,
+"term":"hand_length"
+},
+"model":"Glossary.ontologyterm",
+"pk":104
 }
 ]
