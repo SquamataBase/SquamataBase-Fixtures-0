@@ -5137,6 +5137,40 @@
 "fields":{
 "adm0":3469034,
 "adm1":3451189,
+"adm2":6322001,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Ilha Grande",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":305
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5572575,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Mendocino National Forest",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":306
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3451189,
 "adm2":6322011,
 "coordinate_uncertainty":null,
 "dirtmap":"",
@@ -19850,5 +19884,49 @@
 },
 "model":"Geography.locality",
 "pk":675
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3451189,
+"adm2":6322001,
+"coordinate_uncertainty":null,
+"dirtmap":"Vila Dois Rios",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":305,
+"point":"SRID=4326;POINT (-44.2 -23.183333)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-23\u00b011'S -44\u00b012'W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":676
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5572575,
+"coordinate_uncertainty":null,
+"dirtmap":"Bennett Creek",
+"elevation_end":"336.00",
+"elevation_start":"336.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":306,
+"point":"SRID=4326;POINT (-122.63318 39.831948)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"UTM Zone 10N 531484E 4408974N",
+"verbatim_elevation":"336 m",
+"verbatim_srid":26710
+},
+"model":"Geography.locality",
+"pk":677
 }
 ]
