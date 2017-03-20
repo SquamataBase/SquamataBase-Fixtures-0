@@ -1133,5 +1133,15 @@
 },
 "model":"Glossary.ontologyterm",
 "pk":104
+},
+{
+"fields":{
+"collection":14,
+"definition":"The terrestrial juvenile stage in the life cycle of a newt.",
+"parent":26,
+"term":"eft"
+},
+"model":"Glossary.ontologyterm",
+"pk":105
 }
 ]

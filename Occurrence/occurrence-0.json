@@ -5203,6 +5203,23 @@
 },
 {
 "fields":{
+"adm0":6252001,
+"adm1":5128638,
+"adm2":5140076,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Brookhaven National Laboratory",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":309
+},
+{
+"fields":{
 "adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
@@ -20006,5 +20023,115 @@
 },
 "model":"Geography.locality",
 "pk":679
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5128638,
+"adm2":5136325,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":"",
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":680
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5128638,
+"adm2":5140076,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":309,
+"point":"SRID=4326;POINT (-72.867778 40.872222)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"40\u00b052'20''N -72\u00b052'04''W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":681
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":4017698,
+"adm2":6942826,
+"coordinate_uncertainty":null,
+"dirtmap":"Arroyo Las Animas, San Pedro de la Presa Oasis",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-110.991778 24.850222)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"24\u00b051'00.8''N -110\u00b059'30.4''W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":682
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":4017698,
+"adm2":6941773,
+"coordinate_uncertainty":null,
+"dirtmap":"Ca\u00f1ada de San Bernardo, Rancho Boca de la Sierra, Reserva de la Biosfera Sierra de la Laguna",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-109.818361 23.384806)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"23\u00b023'05.3''N -109\u00b049'06.1''W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":683
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":4004156,
+"adm2":8582144,
+"coordinate_uncertainty":null,
+"dirtmap":"65 km N of Barra de Navidad near the margin of the Chamela River",
+"elevation_end":"47.00",
+"elevation_start":"47.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-105.036583 19.523389)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"19\u00b031'24.2''N -105\u00b002'11.7''W",
+"verbatim_elevation":"47 m",
+"verbatim_srid":4267
+},
+"model":"Geography.locality",
+"pk":684
 }
 ]
