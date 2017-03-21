@@ -5222,6 +5222,23 @@
 "fields":{
 "adm0":3469034,
 "adm1":3451189,
+"adm2":6322073,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Jacon\u00e9",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":310
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3451189,
 "adm2":6322011,
 "coordinate_uncertainty":null,
 "dirtmap":"",
@@ -20133,5 +20150,27 @@
 },
 "model":"Geography.locality",
 "pk":684
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3451189,
+"adm2":6322073,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"2.00",
+"elevation_start":"2.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":310,
+"point":"SRID=4326;POINT (-42.666667 -22.933333)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-22\u00b056'S -42\u00b040'W",
+"verbatim_elevation":"2 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":685
 }
 ]

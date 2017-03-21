@@ -4217,6 +4217,14 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":1091
+},
+"model":"Bibliography.ref",
+"pk":531
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -9197,8 +9205,8 @@
 },
 {
 "fields":{
-"first_name":"Carlos",
-"first_name_ascii":"Carlos",
+"first_name":"Carla",
+"first_name_ascii":"Carla",
 "last_name":"Da Costa Siqueira",
 "last_name_ascii":"Da Costa Siqueira"
 },
@@ -28590,6 +28598,33 @@
 },
 {
 "fields":{
+"person":1093,
+"person_role":1,
+"ref":531
+},
+"model":"Bibliography.contribution",
+"pk":1489
+},
+{
+"fields":{
+"person":500,
+"person_role":1,
+"ref":531
+},
+"model":"Bibliography.contribution",
+"pk":1490
+},
+{
+"fields":{
+"person":214,
+"person_role":1,
+"ref":531
+},
+"model":"Bibliography.contribution",
+"pk":1491
+},
+{
+"fields":{
 "isbn":"84-921999-2-X",
 "pages":126,
 "publisher":"Asociaci\u00f3n Herpetol\u00f3gica Espa\u00f1ola",
@@ -36097,5 +36132,19 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":530
+},
+{
+"fields":{
+"doi":"",
+"issue":"4",
+"journal":6,
+"page_end":"467",
+"page_start":"467",
+"title":"LIOLAEMUS LUTZAE (Sand Lizard). PREDATION.",
+"volume":"37",
+"year_published":2006
+},
+"model":"Bibliography.journalarticle",
+"pk":531
 }
 ]
