@@ -5238,6 +5238,40 @@
 {
 "fields":{
 "adm0":3469034,
+"adm1":3407762,
+"adm2":6324185,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Igarape\u0301 A\u0301gua Fria",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":311
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3457153,
+"adm2":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Ibitipoca State Park",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":312
+},
+{
+"fields":{
+"adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
 "coordinate_uncertainty":null,
@@ -20172,5 +20206,247 @@
 },
 "model":"Geography.locality",
 "pk":685
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":4013674,
+"adm2":8583631,
+"coordinate_uncertainty":"28355.00",
+"dirtmap":"ca. 70 km SE of Torreon",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate",
+"named_place":null,
+"point":"SRID=4326;POINT (-102.922703 25.095973)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"25.095973\u00b0N -102.922703\u00b0W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":686
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3522542,
+"adm2":8582428,
+"coordinate_uncertainty":"3036.00",
+"dirtmap":"San Juan y Puentes conservation area near Aramberri",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate",
+"named_place":null,
+"point":"SRID=4326;POINT (-99.81793399999999 24.100094)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"24.100094\u00b0N -99.817934\u00b0W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":687
+},
+{
+"fields":{
+"adm0":3437598,
+"adm1":3437443,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"ca. 2 km W of National Route 9 \"Carlos A. Lopez,\" on the way to Fortin General Diaz",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"",
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":"",
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":688
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5165418,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"",
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":"",
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":689
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5551752,
+"adm2":5303754,
+"coordinate_uncertainty":null,
+"dirtmap":"State Highway 238",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"",
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":"",
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":690
+},
+{
+"fields":{
+"adm0":3658394,
+"adm1":3653224,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"\"R\u00edo Guajalito\" protected forest 59 km W of Quito",
+"elevation_end":"1900.00",
+"elevation_start":"1900.00",
+"elevation_unit":38,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-78.816667 0.233333)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"0\u00b014'S -78\u00b049'W",
+"verbatim_elevation":"1900 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":691
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3457153,
+"adm2":null,
+"coordinate_uncertainty":"301.00",
+"dirtmap":"Serra do Cara\u00e7a",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate",
+"named_place":null,
+"point":"SRID=4326;POINT (-43.5 -20.133333)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"-20.133333\u00b0S -43.5\u00b0W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":692
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3407762,
+"adm2":6324185,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"141.00",
+"elevation_start":"141.00",
+"elevation_unit":38,
+"georeferenced_from":"",
+"named_place":311,
+"point":"SRID=4326;POINT (-52.1878 0.8289)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"0.82890\u00b0N -52.1878\u00b0W",
+"verbatim_elevation":"141 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":693
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3457153,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"Cave of the Rabbits",
+"elevation_end":"1350.00",
+"elevation_start":"1350.00",
+"elevation_unit":38,
+"georeferenced_from":"",
+"named_place":312,
+"point":"SRID=4326;POINT (-43.89566 -21.71118)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-21.71118\u00b0S -43.89566\u00b0W",
+"verbatim_elevation":"1350 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":694
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3407762,
+"adm2":6319498,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"6.10",
+"elevation_start":"6.10",
+"elevation_unit":38,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-51.094 -0.0392)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-0.0392\u00b0S -51.094\u00b0W",
+"verbatim_elevation":"6.1 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":695
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5551752,
+"adm2":5290270,
+"coordinate_uncertainty":null,
+"dirtmap":"ca. 1.1 km E of Portal",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-109.13013 31.91406)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"31.91406\u00b0N -109.13013\u00b0W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":696
 }
 ]
