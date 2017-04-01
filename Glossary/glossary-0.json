@@ -1143,5 +1143,15 @@
 },
 "model":"Glossary.ontologyterm",
 "pk":105
+},
+{
+"fields":{
+"collection":2,
+"definition":"",
+"parent":null,
+"term":"average_standard_length"
+},
+"model":"Glossary.ontologyterm",
+"pk":106
 }
 ]

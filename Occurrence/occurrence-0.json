@@ -5271,6 +5271,74 @@
 },
 {
 "fields":{
+"adm0":6252001,
+"adm1":4099753,
+"adm2":4101244,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"War Eagle Creek",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":313
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5553701,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Trinity Alps Wilderness Area",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":314
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3522542,
+"adm2":8582453,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Ejido Vistahermosa",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":315
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5339268,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Mount Diablo State Park",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":316
+},
+{
+"fields":{
 "adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
@@ -20448,5 +20516,357 @@
 },
 "model":"Geography.locality",
 "pk":696
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4099753,
+"adm2":4101244,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"",
+"named_place":313,
+"point":"SRID=4326;POINT (-93.942897 36.26728)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"36.26728\u00b0N -93.942897\u00b0W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":697
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3407762,
+"adm2":6319500,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-51.81722 3.83138)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"3.83138\u00b0N -51.81722\u00b0W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":698
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4597040,
+"adm2":4579666,
+"coordinate_uncertainty":null,
+"dirtmap":"South Island portion of the Tom Yawkey Wildlife Center",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-79.20440000000001 33.22863)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"33.22863\u00b0N -79.2044\u00b0W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":699
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3451133,
+"adm2":6323628,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"1284.00",
+"elevation_start":"1284.00",
+"elevation_unit":38,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-49.4601 -28.3351)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-28.3351\u00b0S -49.4601\u00b0W",
+"verbatim_elevation":"1284 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":700
+},
+{
+"fields":{
+"adm0":3865483,
+"adm1":3861244,
+"adm2":3855298,
+"coordinate_uncertainty":null,
+"dirtmap":"El Pinar (Roberts) Farm, along National Road 259",
+"elevation_end":"570.00",
+"elevation_start":"570.00",
+"elevation_unit":38,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-71.3419 -42.9188)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-42.9188\u00b0S -71.3419\u00b0W",
+"verbatim_elevation":"570 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":701
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5553701,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"",
+"named_place":314,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":"",
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":702
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3395443,
+"adm2":6319827,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"41.00",
+"elevation_start":"41.00",
+"elevation_unit":38,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-43.403333 -3.207778)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-3\u00b012'28''S -43\u00b024'12''W",
+"verbatim_elevation":"41 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":703
+},
+{
+"fields":{
+"adm0":7626844,
+"adm1":7610359,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"The Quill",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate",
+"named_place":null,
+"point":"SRID=4326;POINT (-62.959012 17.474977)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"17.474977\u00b0N -62.959012\u00b0W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":704
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3393129,
+"adm2":6319392,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-47.065 -1.744722)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-1\u00b044'41''S -47\u00b03'54''W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":705
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3522542,
+"adm2":8582453,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"400.00",
+"elevation_start":"400.00",
+"elevation_unit":38,
+"georeferenced_from":"",
+"named_place":315,
+"point":"SRID=4326;POINT (-99.584722 25.7625)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"25\u00b045'45''N -99\u00b035'05''W",
+"verbatim_elevation":"400 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":706
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3522542,
+"adm2":8582431,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"489.00",
+"elevation_start":"489.00",
+"elevation_unit":38,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-101.3625 26.723611)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"26\u00b043'25''N -101\u00b021'45''W",
+"verbatim_elevation":"489 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":707
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":6254928,
+"adm2":4762187,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-78.48830700000001 38.341094)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"UTM Zone 17N 0719511E 4246647N",
+"verbatim_elevation":"",
+"verbatim_srid":26917
+},
+"model":"Geography.locality",
+"pk":708
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":6254928,
+"adm2":4758041,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-77.18049999999999 38.688194)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"38\u00b041'17.5''N -77\u00b010'49.8''W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":709
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4736286,
+"adm2":4695143,
+"coordinate_uncertainty":null,
+"dirtmap":"ca. 1 km E of Kilgore",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-94.829167 32.394167)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"32\u00b023'39''N -94\u00b049'45''W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":710
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":4017698,
+"adm2":6942829,
+"coordinate_uncertainty":null,
+"dirtmap":"Baja California Sur Road (BCS) 53, 16.3 km NW of the intersection between Mexico Hwy. 1 and BCS 53",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-111.838167 25.388944)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"25\u00b023'20.2''N -111\u00b050'17.4''W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":711
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5339268,
+"coordinate_uncertainty":"1506.00",
+"dirtmap":"White Canyon",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate",
+"named_place":316,
+"point":"SRID=4326;POINT (-121.949404 37.908535)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"37.908535\u00b0N -121.949404\u00b0W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":712
 }
 ]
