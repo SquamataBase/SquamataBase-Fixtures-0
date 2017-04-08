@@ -1153,5 +1153,15 @@
 },
 "model":"Glossary.ontologyterm",
 "pk":106
+},
+{
+"fields":{
+"collection":2,
+"definition":"",
+"parent":null,
+"term":"average_diameter"
+},
+"model":"Glossary.ontologyterm",
+"pk":107
 }
 ]
