@@ -5392,6 +5392,23 @@
 "fields":{
 "adm0":3469034,
 "adm1":3451189,
+"adm2":6322054,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Restinga de Jurubatiba National Park",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":320
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3451189,
 "adm2":6322011,
 "coordinate_uncertainty":null,
 "dirtmap":"",
@@ -21183,5 +21200,115 @@
 },
 "model":"Geography.locality",
 "pk":724
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3395443,
+"adm2":6319827,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"41.00",
+"elevation_start":"41.00",
+"elevation_unit":38,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-43.353679 -3.208168)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-3\u00b012'28''S -43\u00b021'12''W",
+"verbatim_elevation":"41 m",
+"verbatim_srid":4291
+},
+"model":"Geography.locality",
+"pk":725
+},
+{
+"fields":{
+"adm0":3686110,
+"adm1":3678847,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"On a roadway in the Guajira desert",
+"elevation_end":"160.00",
+"elevation_start":"160.00",
+"elevation_unit":38,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-72.705 11.012778)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"11\u00b00'46''N -72\u00b042'18''W",
+"verbatim_elevation":"ca. 160 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":726
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3463504,
+"adm2":6324222,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"",
+"named_place":null,
+"point":"SRID=4326;POINT (-47.833333 -15.583333)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-15\u00b035'S -47\u00b050'W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":727
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3451189,
+"adm2":6322054,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"",
+"named_place":320,
+"point":"SRID=4326;POINT (-41.655556 -22.281389)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-22\u00b016'53''S -41\u00b039'20''W",
+"verbatim_elevation":"",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":728
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3451189,
+"adm2":6322011,
+"coordinate_uncertainty":null,
+"dirtmap":"",
+"elevation_end":"250.00",
+"elevation_start":"250.00",
+"elevation_unit":38,
+"georeferenced_from":"",
+"named_place":2,
+"point":"SRID=4326;POINT (-42.740361 -22.401719)",
+"remark":"Original coordinates reported as 22\u00b024'619\"S, 42\u00b044'253\"W",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-22\u00b024'6.19''S -42\u00b044'25.3''W",
+"verbatim_elevation":"250 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":729
 }
 ]
