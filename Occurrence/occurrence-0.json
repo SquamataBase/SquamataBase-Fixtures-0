@@ -5407,6 +5407,23 @@
 },
 {
 "fields":{
+"adm0":6252001,
+"adm1":5165418,
+"adm2":5170698,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Sandusky Bay",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":321
+},
+{
+"fields":{
 "adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
@@ -21310,5 +21327,225 @@
 },
 "model":"Geography.locality",
 "pk":729
+},
+{
+"fields":{
+"adm0":3562981,
+"adm1":3556965,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"Altiplanicie de El Toldo",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":730
+},
+{
+"fields":{
+"adm0":3562981,
+"adm1":3557685,
+"adm2":null,
+"coordinate_uncertainty":"3036.00",
+"dirtmap":"Sabana, Mais\u00ed",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-74.26055599999999 20.282222)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"20.282222\u00b0N -74.260556\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":731
+},
+{
+"fields":{
+"adm0":3562981,
+"adm1":3536725,
+"adm2":null,
+"coordinate_uncertainty":"3036.00",
+"dirtmap":"Rio San Juan, Santa Maria",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-75.80805599999999 20.060556)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"20.060556\u00b0N -75.808056\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":732
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4896861,
+"adm2":4916565,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":733
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4736286,
+"adm2":4721747,
+"coordinate_uncertainty":"20929.00",
+"dirtmap":"Texas State Highway 83 ca. 26 km N of Leakey",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-99.761448 29.963248)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"29.963248\u00b0N -99.761448\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":734
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":4014336,
+"adm2":8581836,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":"2185.00",
+"elevation_start":"2185.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":"2185 m",
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":735
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3451133,
+"adm2":6323571,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-51.216667 -30.016667)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-30\u00b001'S -51\u00b013'W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":736
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5165418,
+"adm2":5170698,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":321,
+"point":"SRID=4326;POINT (-82.816667 41.483333)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"41\u00b029'N -82\u00b049'W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":737
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3527213,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"3 km E of Omilteme",
+"elevation_end":"2000.00",
+"elevation_start":"2000.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":"~2000 m",
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":738
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5815135,
+"adm2":5800813,
+"coordinate_uncertainty":null,
+"dirtmap":"Halfway Creek drainage, Stillman Basin, Willapa Hills",
+"elevation_end":"122.00",
+"elevation_start":"122.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-123.148056 46.511667)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"46\u00b030'42''N -123\u00b008'53''W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":739
 }
 ]
