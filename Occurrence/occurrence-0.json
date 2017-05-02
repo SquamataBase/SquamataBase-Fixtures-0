@@ -5578,6 +5578,57 @@
 {
 "fields":{
 "adm0":3469034,
+"adm1":3455077,
+"adm2":6322662,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Marmeleiro",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":331
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5362932,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Sequoia National Forest",
+"point":null,
+"remark":"",
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":332
+},
+{
+"fields":{
+"adm0":3585968,
+"adm1":3587425,
+"adm2":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Parque Nacional El Imposible",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":333
+},
+{
+"fields":{
+"adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
 "coordinate_uncertainty":null,
@@ -22382,5 +22433,203 @@
 },
 "model":"Geography.locality",
 "pk":770
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3455077,
+"adm2":6322662,
+"coordinate_uncertainty":"3036.00",
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":331,
+"point":"SRID=4326;POINT (-53.033333 -26.133333)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"-26.133333\u00b0S -53.033333\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":771
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4436296,
+"adm2":4421964,
+"coordinate_uncertainty":"9165.00",
+"dirtmap":"Melton Bottom, ca. 15 km ESE West Point",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-88.50039599999999 33.555806)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"33.555806\u00b0N -88.500396\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":772
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5362932,
+"coordinate_uncertainty":null,
+"dirtmap":"Alder Creek, Greenhorn Mountains",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":332,
+"point":"SRID=4326;POINT (-118.596722 35.718472)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"35\u00b043'6.5''N -118\u00b035'48.2''W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":773
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3450387,
+"adm2":6323157,
+"coordinate_uncertainty":null,
+"dirtmap":"On the eastern bank of Uruguai River near It\u00e1",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-51.482778 -27.378333)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-27\u00b022'42''S -51\u00b028'58''W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":774
+},
+{
+"fields":{
+"adm0":3585968,
+"adm1":3587425,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"Sector La Fincona",
+"elevation_end":"750.00",
+"elevation_start":"750.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":333,
+"point":"SRID=4326;POINT (-89.966667 13.833333)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"13\u00b050'N -89\u00b058'W",
+"verbatim_elevation":"750 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":775
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3451133,
+"adm2":6323419,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-52.3115 -30.423194)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-30\u00b025'23.5''S -52\u00b018'41.4''W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":776
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3451133,
+"adm2":6323340,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-50.264722 -30.3)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-30\u00b018'00''S -50\u00b015'53''W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":777
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3451133,
+"adm2":6323363,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-52.9 -30.033333)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-30\u00b002'S -52\u00b054'W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":778
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5339268,
+"coordinate_uncertainty":null,
+"dirtmap":"Concord Naval Weapons Station",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-121.983333 38)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"38\u00b000'N -121\u00b059'W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":779
 }
 ]
