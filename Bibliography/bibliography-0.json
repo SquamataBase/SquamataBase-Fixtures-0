@@ -4921,6 +4921,14 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":1261
+},
+"model":"Bibliography.ref",
+"pk":619
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -17338,6 +17346,16 @@
 },
 "model":"Bibliography.person",
 "pk":1243
+},
+{
+"fields":{
+"first_name":"Matthew P.",
+"first_name_ascii":"Matthew P.",
+"last_name":"Greene",
+"last_name_ascii":"Greene"
+},
+"model":"Bibliography.person",
+"pk":1244
 },
 {
 "fields":{
@@ -32776,6 +32794,24 @@
 },
 {
 "fields":{
+"person":1244,
+"person_role":1,
+"ref":619
+},
+"model":"Bibliography.contribution",
+"pk":1727
+},
+{
+"fields":{
+"person":975,
+"person_role":1,
+"ref":619
+},
+"model":"Bibliography.contribution",
+"pk":1728
+},
+{
+"fields":{
 "isbn":"84-921999-2-X",
 "pages":126,
 "publisher":"Asociaci\u00f3n Herpetol\u00f3gica Espa\u00f1ola",
@@ -41515,5 +41551,19 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":618
+},
+{
+"fields":{
+"doi":null,
+"issue":"2",
+"journal":6,
+"page_end":"159",
+"page_start":"159",
+"title":"THAMNOPHIS SAURITUS SAURITUS (Eastern Ribbon Snake). DIET.",
+"volume":"34",
+"year_published":2003
+},
+"model":"Bibliography.journalarticle",
+"pk":619
 }
 ]

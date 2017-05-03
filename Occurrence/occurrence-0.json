@@ -5628,6 +5628,23 @@
 },
 {
 "fields":{
+"adm0":6252001,
+"adm1":4829764,
+"adm2":4074246,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Tuskegee National Forest",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":334
+},
+{
+"fields":{
 "adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
@@ -22631,5 +22648,27 @@
 },
 "model":"Geography.locality",
 "pk":779
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4829764,
+"adm2":4074246,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":334,
+"point":"SRID=4326;POINT (-85.65816700000001 32.442056)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"32\u00b026'31.4''N -85\u00b039'29.4''W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":780
 }
 ]
