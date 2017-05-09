@@ -5781,6 +5781,40 @@
 },
 {
 "fields":{
+"adm0":6252001,
+"adm1":4197000,
+"adm2":4184899,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Fort Stewart Military Installation",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":343
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5391832,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"U.S. Marine Corps Base Camp Pendleton",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":344
+},
+{
+"fields":{
 "adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
@@ -23048,5 +23082,225 @@
 },
 "model":"Geography.locality",
 "pk":791
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3457153,
+"adm2":6321899,
+"coordinate_uncertainty":null,
+"dirtmap":"Clube Ca\u00e7a e Pesca Itoror\u00f3 de Uberl\u00e2ndia",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-48.3 -18.983333)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-18\u00b059'S -48\u00b018'W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":792
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4197000,
+"adm2":4184899,
+"coordinate_uncertainty":"3036.00",
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":343,
+"point":"SRID=4326;POINT (-81.517611 31.86271)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"31.86271\u00b0N -81.517611\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":793
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4155751,
+"adm2":4156770,
+"coordinate_uncertainty":null,
+"dirtmap":"near Newberry",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":794
+},
+{
+"fields":{
+"adm0":3625428,
+"adm1":3648106,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"The right margin of the Ariza River",
+"elevation_end":"290.00",
+"elevation_start":"290.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":"290 m",
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":795
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":6254927,
+"adm2":5188847,
+"coordinate_uncertainty":"6725.00",
+"dirtmap":"1.1 km ENE of the Erie International Airport",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-80.14926 42.097927)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"42.097927\u00b0N -80.14926\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":796
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5481136,
+"adm2":5471293,
+"coordinate_uncertainty":null,
+"dirtmap":"Hwy 80, 37 km S of Interstate 10",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":797
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5391726,
+"coordinate_uncertainty":null,
+"dirtmap":"Between Black Canyon Petroglyphs and Harper Dry Lake (north of Barstow)",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":798
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5562484,
+"coordinate_uncertainty":null,
+"dirtmap":"U.S. Forest Service Rd 17N05 (T17N R3E SW1/4 Sec. 55)",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"Earth Point (www.earthpoint.us)",
+"named_place":null,
+"point":"SRID=4326;POINT (-123.888806 41.813758)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"41.8137578\u00b0N -123.8888060\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":799
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5391832,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":344,
+"point":"SRID=4326;POINT (-117.425582 33.353862)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"33.353862\u00b0N -117.425582\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":800
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4829764,
+"adm2":4074246,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":334,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":801
 }
 ]
