@@ -23302,5 +23302,137 @@
 },
 "model":"Geography.locality",
 "pk":801
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3448433,
+"adm2":6322152,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":"887.00",
+"elevation_start":"887.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-46.554 -22.9634)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-22.9634\u00b0S -46.554\u00b0W",
+"verbatim_elevation":"887 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":802
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3462372,
+"adm2":6323906,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":"667.00",
+"elevation_start":"667.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-51.201944 -18.011667)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-18\u00b000'42''S -51\u00b012'07''W",
+"verbatim_elevation":"ca. 667 m a.s.l.",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":803
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3457419,
+"adm2":6323820,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":"250.00",
+"elevation_start":"250.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-55.883333 -15.333333)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-15\u00b020'S -55\u00b053'W",
+"verbatim_elevation":"250 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":804
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3402362,
+"adm2":3392343,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-39.307222 -3.740389)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-3\u00b044'25.4''S -39\u00b018'26.0''W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":805
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3451189,
+"adm2":6322015,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":"13.00",
+"elevation_start":"13.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-41.32 -21.784722)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-21\u00b047'05''S -41\u00b019'12''W",
+"verbatim_elevation":"13 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":806
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3457153,
+"adm2":6321168,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":"802.00",
+"elevation_start":"802.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-44.12 -19.994444)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-19\u00b059'40''S -44\u00b007'12''W",
+"verbatim_elevation":"802 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":807
 }
 ]
