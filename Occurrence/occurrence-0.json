@@ -23434,5 +23434,49 @@
 },
 "model":"Geography.locality",
 "pk":807
+},
+{
+"fields":{
+"adm0":3624060,
+"adm1":3622226,
+"adm2":3622657,
+"coordinate_uncertainty":null,
+"dirtmap":"Finca Econaturalistica La Tarde",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"Google Maps",
+"named_place":null,
+"point":"SRID=4326;POINT (-83.485879 8.577575)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"8.577575\u00b0N -83.485879\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":808
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3514211,
+"adm2":8583896,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":"3.00",
+"elevation_start":"3.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-90.02435699999999 21.166987)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"21.1669865\u00b0N -90.024357\u00b0W",
+"verbatim_elevation":"3 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":809
 }
 ]
