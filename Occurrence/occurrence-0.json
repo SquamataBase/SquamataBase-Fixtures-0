@@ -5849,6 +5849,74 @@
 },
 {
 "fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5565500,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"McDonald Creek",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":347
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5073708,
+"adm2":5695559,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Crescent Lake National Wildlife Refuge",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":348
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4155751,
+"adm2":4169471,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Katharine Ordway Preserve-Swisher Memorial Sanctuary",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":349
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4896861,
+"adm2":4241756,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Prairie Ridge State Natural Area",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":350
+},
+{
+"fields":{
 "adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
@@ -23622,5 +23690,115 @@
 },
 "model":"Geography.locality",
 "pk":814
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5565500,
+"coordinate_uncertainty":null,
+"dirtmap":"T10N, R1E, Sec. 5, NE1/4, NW1/4, SE1/4",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"earthpoint.us",
+"named_place":347,
+"point":"SRID=4326;POINT (-124.084834 41.280975)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"41.2809746\u00b0N -124.0848344\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":815
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4736286,
+"adm2":5528185,
+"coordinate_uncertainty":"30205.00",
+"dirtmap":"US 385 twenty-two miles south of Fort Stockton",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-102.879322 30.574696)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"30.574696\u00b0N -102.879322\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":816
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5073708,
+"adm2":5695559,
+"coordinate_uncertainty":"19739.00",
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":348,
+"point":"SRID=4326;POINT (-102.348759 41.732211)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"41.732211\u00b0N -102.348759\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":817
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4155751,
+"adm2":4169471,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"Google Maps",
+"named_place":349,
+"point":"SRID=4326;POINT (-82.03300299999999 29.672901)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"29.672901\u00b0N -82.033003\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":818
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4896861,
+"adm2":4241756,
+"coordinate_uncertainty":"5718.00",
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":350,
+"point":"SRID=4326;POINT (-88.22848 38.939605)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"38.939605\u00b0N -88.22848\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":819
 }
 ]
