@@ -5968,6 +5968,57 @@
 },
 {
 "fields":{
+"adm0":6252001,
+"adm1":5001836,
+"adm2":4988577,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Barney's Lake, Beaver Island",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":354
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":4014336,
+"adm2":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Ca\u00f1on el Meste\u00f1o, Sierra del Nido Mountains",
+"point":null,
+"remark":"",
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":355
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5391832,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Dulzura",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":356
+},
+{
+"fields":{
 "adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
@@ -23939,5 +23990,115 @@
 },
 "model":"Geography.locality",
 "pk":823
+},
+{
+"fields":{
+"adm0":4566966,
+"adm1":4562837,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"Sabana Seca",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":824
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5001836,
+"adm2":4988577,
+"coordinate_uncertainty":"587.00",
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":354,
+"point":"SRID=4326;POINT (-85.559406 45.712254)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"45.712254\u00b0N -85.559406\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":825
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":4014336,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":"2570.00",
+"elevation_start":"2570.00",
+"elevation_unit":38,
+"georeferenced_from":"mapcarta.com",
+"named_place":355,
+"point":"SRID=4326;POINT (-106.809861 29.485806)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"29\u00b029'8.9''N -106\u00b048'35.5''W",
+"verbatim_elevation":"2570 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":826
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5391832,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":356,
+"point":"SRID=4326;POINT (-116.766667 32.616667)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"32\u00b037'N -116\u00b046'W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":827
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3523272,
+"adm2":8583687,
+"coordinate_uncertainty":null,
+"dirtmap":"Area de Conservaci\u00f3n e Investigaci\u00f3n Ecol\u00f3gica El Bordo, Las Maravillas",
+"elevation_end":"2550.00",
+"elevation_start":"2550.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-99.683333 19.4)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"19\u00b024'N -99\u00b041'W",
+"verbatim_elevation":"2550 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":828
 }
 ]
