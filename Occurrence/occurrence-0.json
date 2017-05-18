@@ -6019,6 +6019,74 @@
 },
 {
 "fields":{
+"adm0":6252001,
+"adm1":4273857,
+"adm2":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Konza Prairie Research Natural Area",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":357
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4736286,
+"adm2":4684904,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Cedar Hill State Park",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":358
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3457153,
+"adm2":6321528,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Parque Estadual do Ibitipoca",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":359
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3985605,
+"adm2":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Las Norias del Refugio",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":360
+},
+{
+"fields":{
 "adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
@@ -24100,5 +24168,137 @@
 },
 "model":"Geography.locality",
 "pk":828
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4155751,
+"adm2":4166818,
+"coordinate_uncertainty":null,
+"dirtmap":"Holly Pond",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":209,
+"point":"SRID=4326;POINT (-86.75111099999999 30.565556)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"30\u00b033'56''N -86\u00b045'04''W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":829
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4273857,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":357,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":830
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4736286,
+"adm2":4684904,
+"coordinate_uncertainty":"2289.00",
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":358,
+"point":"SRID=4326;POINT (-96.999172 32.605969)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"32.605969\u00b0N -96.999172\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":831
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3457153,
+"adm2":6321528,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":"1100.00",
+"elevation_start":"1100.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":359,
+"point":"SRID=4326;POINT (-43.866667 -21.066667)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-21\u00b04'S -43\u00b052'W",
+"verbatim_elevation":"ca. 1100 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":832
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3985605,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":"1322.00",
+"elevation_start":"1322.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":360,
+"point":"SRID=4326;POINT (-100.4025 22.923917)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"22\u00b055'26.1''N -100\u00b024'9''W",
+"verbatim_elevation":"1322 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":833
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3985605,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"On the road between Las Lagunas and La Noria de las Flores",
+"elevation_end":"2200.00",
+"elevation_start":"2200.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-100.414444 22.679444)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"22\u00b040'46''N -100\u00b024'52''W",
+"verbatim_elevation":"2200 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":834
 }
 ]
