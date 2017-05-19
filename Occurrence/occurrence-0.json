@@ -24300,5 +24300,71 @@
 },
 "model":"Geography.locality",
 "pk":834
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3455077,
+"adm2":6322799,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":835
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5376509,
+"coordinate_uncertainty":null,
+"dirtmap":"Furnace Flat",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":345,
+"point":"SRID=4326;POINT (-120.503778 39.355694)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"39\u00b021'20.5''N -120\u00b030'13.6''W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":836
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3527115,
+"adm2":8582056,
+"coordinate_uncertainty":"3036.00",
+"dirtmap":"The vicinity of Carpinteros",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-98.53539499999999 20.588909)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"20.588909\u00b0N -98.535395\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":837
 }
 ]
