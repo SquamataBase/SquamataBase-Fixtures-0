@@ -6155,6 +6155,40 @@
 },
 {
 "fields":{
+"adm0":3625428,
+"adm1":3649110,
+"adm2":3640595,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Universidad Central de Venezuela",
+"point":"SRID=4326;POINT (-67.591128 10.23535)",
+"remark":"Geo-referenced from GEOLocate web service",
+"verbatim_coordinates":"10.23535\u00b0N -67.591128\u00b0W",
+"verbatim_srid":4326
+},
+"model":"Geography.namedplace",
+"pk":365
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4829764,
+"adm2":4057296,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Conecuh National Forest Wildlife Management Area",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":366
+},
+{
+"fields":{
 "adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
@@ -24742,5 +24776,137 @@
 },
 "model":"Geography.locality",
 "pk":851
+},
+{
+"fields":{
+"adm0":3625428,
+"adm1":3649110,
+"adm2":3640595,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":365,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":852
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4829764,
+"adm2":4057296,
+"coordinate_uncertainty":"587.00",
+"dirtmap":"Salt Pond",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":366,
+"point":"SRID=4326;POINT (-86.538134 31.17049)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"31.17049\u00b0N -86.538134\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":853
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3393129,
+"adm2":6324279,
+"coordinate_uncertainty":null,
+"dirtmap":"Curupati",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":854
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4482348,
+"adm2":4490602,
+"coordinate_uncertainty":"8716.00",
+"dirtmap":"10.3 km W of Wagram",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-79.47927 34.887887)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"34.887887\u00b0N -79.47927\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":855
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4482348,
+"adm2":4490602,
+"coordinate_uncertainty":"3319.00",
+"dirtmap":"4.2 km NNW of Old Hundred",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-79.607969 34.864279)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"34.864279\u00b0N -79.607969\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":856
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4482348,
+"adm2":4490602,
+"coordinate_uncertainty":"8341.00",
+"dirtmap":"9.8 km W of Wagram",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-79.47377899999999 34.887892)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"34.887892\u00b0N -79.473779\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":857
 }
 ]
