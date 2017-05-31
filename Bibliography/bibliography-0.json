@@ -5809,6 +5809,38 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":1486
+},
+"model":"Bibliography.ref",
+"pk":730
+},
+{
+"fields":{
+"ref_type":5,
+"wb":1487
+},
+"model":"Bibliography.ref",
+"pk":731
+},
+{
+"fields":{
+"ref_type":5,
+"wb":1488
+},
+"model":"Bibliography.ref",
+"pk":732
+},
+{
+"fields":{
+"ref_type":5,
+"wb":1489
+},
+"model":"Bibliography.ref",
+"pk":733
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -19586,6 +19618,76 @@
 },
 "model":"Bibliography.person",
 "pk":1379
+},
+{
+"fields":{
+"first_name":"Jamie",
+"first_name_ascii":"Jamie",
+"last_name":"Kristine Reaser",
+"last_name_ascii":"Kristine Reaser"
+},
+"model":"Bibliography.person",
+"pk":1380
+},
+{
+"fields":{
+"first_name":"Robert",
+"first_name_ascii":"Robert",
+"last_name":"Elias Dexter",
+"last_name_ascii":"Elias Dexter"
+},
+"model":"Bibliography.person",
+"pk":1381
+},
+{
+"fields":{
+"first_name":"James H.",
+"first_name_ascii":"James H.",
+"last_name":"Withgott",
+"last_name_ascii":"Withgott"
+},
+"model":"Bibliography.person",
+"pk":1382
+},
+{
+"fields":{
+"first_name":"Charles J.",
+"first_name_ascii":"Charles J.",
+"last_name":"Amlaner",
+"last_name_ascii":"Amlaner"
+},
+"model":"Bibliography.person",
+"pk":1383
+},
+{
+"fields":{
+"first_name":"Ma. Carmen",
+"first_name_ascii":"Ma. Carmen",
+"last_name":"Blazquez",
+"last_name_ascii":"Blazquez"
+},
+"model":"Bibliography.person",
+"pk":1384
+},
+{
+"fields":{
+"first_name":"William P.",
+"first_name_ascii":"William P.",
+"last_name":"Leonard",
+"last_name_ascii":"Leonard"
+},
+"model":"Bibliography.person",
+"pk":1385
+},
+{
+"fields":{
+"first_name":"Nicholas P.",
+"first_name_ascii":"Nicholas P.",
+"last_name":"Leonard",
+"last_name_ascii":"Leonard"
+},
+"model":"Bibliography.person",
+"pk":1386
 },
 {
 "fields":{
@@ -37175,6 +37277,69 @@
 },
 {
 "fields":{
+"person":1380,
+"person_role":1,
+"ref":730
+},
+"model":"Bibliography.contribution",
+"pk":1966
+},
+{
+"fields":{
+"person":1381,
+"person_role":1,
+"ref":730
+},
+"model":"Bibliography.contribution",
+"pk":1967
+},
+{
+"fields":{
+"person":1382,
+"person_role":1,
+"ref":731
+},
+"model":"Bibliography.contribution",
+"pk":1968
+},
+{
+"fields":{
+"person":1383,
+"person_role":1,
+"ref":731
+},
+"model":"Bibliography.contribution",
+"pk":1969
+},
+{
+"fields":{
+"person":1384,
+"person_role":1,
+"ref":732
+},
+"model":"Bibliography.contribution",
+"pk":1970
+},
+{
+"fields":{
+"person":1385,
+"person_role":1,
+"ref":733
+},
+"model":"Bibliography.contribution",
+"pk":1971
+},
+{
+"fields":{
+"person":1386,
+"person_role":1,
+"ref":733
+},
+"model":"Bibliography.contribution",
+"pk":1972
+},
+{
+"fields":{
 "isbn":"84-921999-2-X",
 "pages":126,
 "publisher":"Asociaci\u00f3n Herpetol\u00f3gica Espa\u00f1ola",
@@ -47495,5 +47660,61 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":729
+},
+{
+"fields":{
+"doi":null,
+"issue":"2",
+"journal":6,
+"page_end":"75",
+"page_start":"75",
+"title":"RANA PRETIOSA (Spotted Frog). PREDATION.",
+"volume":"27",
+"year_published":1996
+},
+"model":"Bibliography.journalarticle",
+"pk":730
+},
+{
+"fields":{
+"doi":null,
+"issue":"2",
+"journal":6,
+"page_end":"82",
+"page_start":"81",
+"title":"ELAPHE OBSOLETA OBSOLETA (Black Rat Snake). FORAGING.",
+"volume":"27",
+"year_published":1996
+},
+"model":"Bibliography.journalarticle",
+"pk":731
+},
+{
+"fields":{
+"doi":null,
+"issue":"2",
+"journal":6,
+"page_end":"84",
+"page_start":"83",
+"title":"NERODIA VALIDA (Pacific Water Snake). PREY.",
+"volume":"27",
+"year_published":1996
+},
+"model":"Bibliography.journalarticle",
+"pk":732
+},
+{
+"fields":{
+"doi":null,
+"issue":"2",
+"journal":6,
+"page_end":"84",
+"page_start":"84",
+"title":"THAMNOPHIS SIRTALIS PICKERINGII (Puget Sound Garter Snake). FORAGING and ARBOREALITY.",
+"volume":"27",
+"year_published":1996
+},
+"model":"Bibliography.journalarticle",
+"pk":733
 }
 ]
