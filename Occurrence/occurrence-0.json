@@ -25730,5 +25730,27 @@
 },
 "model":"Geography.locality",
 "pk":882
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5815135,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":"N. Fork Quinault drainage (SE1/4 NW 1/4 Sec. 10 T24N R8W)",
+"elevation_end":"1300.00",
+"elevation_start":"1300.00",
+"elevation_unit":38,
+"georeferenced_from":"earthpoint.us",
+"named_place":null,
+"point":"SRID=4326;POINT (-123.685754 47.582718)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"47.5827184\u00b0N -123.6857539\u00b0W",
+"verbatim_elevation":"1300 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":883
 }
 ]
