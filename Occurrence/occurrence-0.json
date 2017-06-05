@@ -6461,6 +6461,40 @@
 },
 {
 "fields":{
+"adm0":6252001,
+"adm1":5667009,
+"adm2":5662406,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Kootenai River Gorge",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":383
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3448433,
+"adm2":6322594,
+"elevation_end":"60.00",
+"elevation_start":"60.00",
+"elevation_unit":38,
+"place_name":"Parque Estadual de Carlos Botelho",
+"point":"SRID=4326;POINT (-47.916667 -24.2)",
+"remark":"",
+"verbatim_coordinates":"-24\u00b012'S -47\u00b055'W",
+"verbatim_srid":4326
+},
+"model":"Geography.namedplace",
+"pk":384
+},
+{
+"fields":{
 "adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
@@ -25752,5 +25786,93 @@
 },
 "model":"Geography.locality",
 "pk":883
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5667009,
+"adm2":5662406,
+"coordinate_uncertainty":"1448.00",
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":383,
+"point":"SRID=4326;POINT (-115.771149 48.452678)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"48.452678\u00b0N -115.771149\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":884
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5667009,
+"adm2":5662406,
+"coordinate_uncertainty":"41785.00",
+"dirtmap":"W shore of Lake Koocanusa",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-115.23578 48.543641)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"48.543641\u00b0N -115.23578\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":885
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5596512,
+"adm2":5607202,
+"coordinate_uncertainty":"3036.00",
+"dirtmap":"North Fork St. Joe River",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-115.774322 47.284925)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"47.284925\u00b0N -115.774322\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":886
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3448433,
+"adm2":6322594,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":384,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":887
 }
 ]

@@ -5849,6 +5849,22 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":1493
+},
+"model":"Bibliography.ref",
+"pk":735
+},
+{
+"fields":{
+"ref_type":5,
+"wb":1496
+},
+"model":"Bibliography.ref",
+"pk":736
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -19716,6 +19732,36 @@
 },
 "model":"Bibliography.person",
 "pk":1388
+},
+{
+"fields":{
+"first_name":"Albert G.",
+"first_name_ascii":"Albert G.",
+"last_name":"Wilson Jr.",
+"last_name_ascii":"Wilson Jr."
+},
+"model":"Bibliography.person",
+"pk":1389
+},
+{
+"fields":{
+"first_name":"Evelyn M.",
+"first_name_ascii":"Evelyn M.",
+"last_name":"Wilson",
+"last_name_ascii":"Wilson"
+},
+"model":"Bibliography.person",
+"pk":1390
+},
+{
+"fields":{
+"first_name":"Luciano",
+"first_name_ascii":"Luciano",
+"last_name":"Mendes Castanho",
+"last_name_ascii":"Mendes Castanho"
+},
+"model":"Bibliography.person",
+"pk":1391
 },
 {
 "fields":{
@@ -37386,6 +37432,33 @@
 },
 {
 "fields":{
+"person":1389,
+"person_role":1,
+"ref":735
+},
+"model":"Bibliography.contribution",
+"pk":1975
+},
+{
+"fields":{
+"person":1390,
+"person_role":1,
+"ref":735
+},
+"model":"Bibliography.contribution",
+"pk":1976
+},
+{
+"fields":{
+"person":1391,
+"person_role":1,
+"ref":736
+},
+"model":"Bibliography.contribution",
+"pk":1977
+},
+{
+"fields":{
 "isbn":"84-921999-2-X",
 "pages":126,
 "publisher":"Asociaci\u00f3n Herpetol\u00f3gica Espa\u00f1ola",
@@ -47776,5 +47849,33 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":734
+},
+{
+"fields":{
+"doi":null,
+"issue":"3",
+"journal":6,
+"page_end":"138",
+"page_start":"138",
+"title":"PLETHODON IDAHOENSIS (Coeur d'Alene Salamander). SNAKE PREDATION.",
+"volume":"27",
+"year_published":1996
+},
+"model":"Bibliography.journalarticle",
+"pk":735
+},
+{
+"fields":{
+"doi":null,
+"issue":"3",
+"journal":6,
+"page_end":"141",
+"page_start":"141",
+"title":"PHYLLOMEDUSA DISTINCTA (Leaf-frog). PREDATION.",
+"volume":"27",
+"year_published":1996
+},
+"model":"Bibliography.journalarticle",
+"pk":736
 }
 ]
