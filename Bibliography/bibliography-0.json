@@ -6265,6 +6265,38 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":1608
+},
+"model":"Bibliography.ref",
+"pk":787
+},
+{
+"fields":{
+"ref_type":5,
+"wb":1609
+},
+"model":"Bibliography.ref",
+"pk":788
+},
+{
+"fields":{
+"ref_type":5,
+"wb":1611
+},
+"model":"Bibliography.ref",
+"pk":789
+},
+{
+"fields":{
+"ref_type":5,
+"wb":1612
+},
+"model":"Bibliography.ref",
+"pk":790
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -20922,6 +20954,56 @@
 },
 "model":"Bibliography.person",
 "pk":1467
+},
+{
+"fields":{
+"first_name":"Philip C.",
+"first_name_ascii":"Philip C.",
+"last_name":"Rosen",
+"last_name_ascii":"Rosen"
+},
+"model":"Bibliography.person",
+"pk":1468
+},
+{
+"fields":{
+"first_name":"James M.",
+"first_name_ascii":"James M.",
+"last_name":"Mueller",
+"last_name_ascii":"Mueller"
+},
+"model":"Bibliography.person",
+"pk":1469
+},
+{
+"fields":{
+"first_name":"Martin J.",
+"first_name_ascii":"Martin J.",
+"last_name":"Whiting",
+"last_name_ascii":"Whiting"
+},
+"model":"Bibliography.person",
+"pk":1470
+},
+{
+"fields":{
+"first_name":"David M.",
+"first_name_ascii":"David M.",
+"last_name":"Ward Jr.",
+"last_name_ascii":"Ward Jr."
+},
+"model":"Bibliography.person",
+"pk":1471
+},
+{
+"fields":{
+"first_name":"William H.",
+"first_name_ascii":"William H.",
+"last_name":"Clark",
+"last_name_ascii":"Clark"
+},
+"model":"Bibliography.person",
+"pk":1472
 },
 {
 "fields":{
@@ -39600,6 +39682,60 @@
 },
 {
 "fields":{
+"person":1468,
+"person_role":1,
+"ref":787
+},
+"model":"Bibliography.contribution",
+"pk":2087
+},
+{
+"fields":{
+"person":1469,
+"person_role":1,
+"ref":788
+},
+"model":"Bibliography.contribution",
+"pk":2088
+},
+{
+"fields":{
+"person":1470,
+"person_role":1,
+"ref":788
+},
+"model":"Bibliography.contribution",
+"pk":2089
+},
+{
+"fields":{
+"person":1265,
+"person_role":1,
+"ref":789
+},
+"model":"Bibliography.contribution",
+"pk":2090
+},
+{
+"fields":{
+"person":1471,
+"person_role":1,
+"ref":790
+},
+"model":"Bibliography.contribution",
+"pk":2091
+},
+{
+"fields":{
+"person":1472,
+"person_role":1,
+"ref":790
+},
+"model":"Bibliography.contribution",
+"pk":2092
+},
+{
+"fields":{
 "isbn":"84-921999-2-X",
 "pages":126,
 "publisher":"Asociaci\u00f3n Herpetol\u00f3gica Espa\u00f1ola",
@@ -50745,5 +50881,61 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":786
+},
+{
+"fields":{
+"doi":null,
+"issue":"3",
+"journal":6,
+"page_end":"71",
+"page_start":"71",
+"title":"COLUBER CONSTRICTOR PALUDICOLA\r\n(Everglades Racer). FORAGING.",
+"volume":"20",
+"year_published":1989
+},
+"model":"Bibliography.journalarticle",
+"pk":787
+},
+{
+"fields":{
+"doi":null,
+"issue":"3",
+"journal":6,
+"page_end":"73",
+"page_start":"72",
+"title":"MASTICOPHIS FLAGELLUM TESTACEUS\r\n(Western Coachwhip). PREDATION.",
+"volume":"20",
+"year_published":1989
+},
+"model":"Bibliography.journalarticle",
+"pk":788
+},
+{
+"fields":{
+"doi":null,
+"issue":"2",
+"journal":6,
+"page_end":"34",
+"page_start":"34",
+"title":"PLETHODON VEHICULUM (Western Red- backed Salamander). PREDATION.",
+"volume":"19",
+"year_published":1988
+},
+"model":"Bibliography.journalarticle",
+"pk":789
+},
+{
+"fields":{
+"doi":null,
+"issue":"2",
+"journal":6,
+"page_end":"37",
+"page_start":"36",
+"title":"MASTICOPHIS FLAGELLUM FULIGINOSUS\r\n(Whipsnake). PREDATION.",
+"volume":"19",
+"year_published":1988
+},
+"model":"Bibliography.journalarticle",
+"pk":790
 }
 ]
