@@ -161,10 +161,10 @@
 "elevation_start":null,
 "elevation_unit":null,
 "place_name":"Adolpho Ducke Forest Reserve",
-"point":null,
+"point":"SRID=4326;POINT (-59.918708 -3.003798)",
 "remark":"",
-"verbatim_coordinates":null,
-"verbatim_srid":null
+"verbatim_coordinates":"-3.003798\u00b0S -59.918708\u00b0W",
+"verbatim_srid":4326
 },
 "model":"Geography.namedplace",
 "pk":11
@@ -6995,13 +6995,98 @@
 "elevation_start":null,
 "elevation_unit":null,
 "place_name":"Sycamore Canyon",
-"point":null,
-"remark":null,
-"verbatim_coordinates":null,
-"verbatim_srid":null
+"point":"SRID=4326;POINT (-111.18866 31.431923)",
+"remark":"",
+"verbatim_coordinates":"31.431923\u00b0N -111.18866\u00b0W",
+"verbatim_srid":4326
 },
 "model":"Geography.namedplace",
 "pk":414
+},
+{
+"fields":{
+"adm0":3562981,
+"adm1":3557685,
+"adm2":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Cuzco Beach",
+"point":"SRID=4326;POINT (-75.141783 19.894646)",
+"remark":"",
+"verbatim_coordinates":"19.894646\u00b0N -75.141783\u00b0W",
+"verbatim_srid":4326
+},
+"model":"Geography.namedplace",
+"pk":415
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":6254925,
+"adm2":4291564,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Raven Run Nature Preserve",
+"point":"SRID=4326;POINT (-84.39458999999999 37.889105)",
+"remark":"",
+"verbatim_coordinates":"37.889105\u00b0N -84.394590\u00b0W",
+"verbatim_srid":4326
+},
+"model":"Geography.namedplace",
+"pk":416
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4398678,
+"adm2":4377925,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Englewood",
+"point":"SRID=4326;POINT (-92.18435100000001 38.821705)",
+"remark":"",
+"verbatim_coordinates":"38.821705\u00b0N -92.184351\u00b0W",
+"verbatim_srid":4326
+},
+"model":"Geography.namedplace",
+"pk":417
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5379524,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Carbon Canyon",
+"point":"SRID=4326;POINT (-117.837 33.92)",
+"remark":"",
+"verbatim_coordinates":"33.920\u00b0N -117.837\u00b0W",
+"verbatim_srid":4326
+},
+"model":"Geography.namedplace",
+"pk":418
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5387890,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Idyllwild County Park",
+"point":"SRID=4326;POINT (-116.722864 33.743702)",
+"remark":"",
+"verbatim_coordinates":"33.743702\u00b0N -116.722864\u00b0W",
+"verbatim_srid":4326
+},
+"model":"Geography.namedplace",
+"pk":419
 },
 {
 "fields":{
@@ -10925,7 +11010,7 @@
 "adm1":3665361,
 "adm2":6319328,
 "coordinate_uncertainty":null,
-"dirtmap":"",
+"dirtmap":null,
 "elevation_end":null,
 "elevation_start":null,
 "elevation_unit":null,
@@ -10935,7 +11020,7 @@
 "remark":"",
 "uncertainty_unit":null,
 "verbatim_coordinates":null,
-"verbatim_elevation":"",
+"verbatim_elevation":null,
 "verbatim_srid":null
 },
 "model":"Geography.locality",
@@ -27660,5 +27745,225 @@
 },
 "model":"Geography.locality",
 "pk":945
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5551752,
+"adm2":5313135,
+"coordinate_uncertainty":null,
+"dirtmap":"0.16 km downstream from the trailhead at Hank and Yank Spring",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":414,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":946
+},
+{
+"fields":{
+"adm0":3562981,
+"adm1":3557685,
+"adm2":null,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":415,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":947
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":6254925,
+"adm2":4291564,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":416,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":948
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4155751,
+"adm2":4164762,
+"coordinate_uncertainty":"3036.00",
+"dirtmap":"7.8 km S Monroe Station on State Highway 94",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-81.100466 25.792638)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"25.792638\u00b0N -81.100466\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":949
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4155751,
+"adm2":4145709,
+"coordinate_uncertainty":"16851.00",
+"dirtmap":"Center for Aquatic and Invasive Plants, University of Florida, 20 km NE of Gainesville",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-82.17810799999999 29.779059)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"29.779059\u00b0N -82.178108\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":950
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4155751,
+"adm2":4158712,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":951
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4544379,
+"adm2":4539140,
+"coordinate_uncertainty":"3651.00",
+"dirtmap":"ca. 3 km E of Calvin",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-96.215638 34.967863)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"34.967863\u00b0N -96.215638\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":952
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4398678,
+"adm2":4377925,
+"coordinate_uncertainty":null,
+"dirtmap":"County Rd. H, west of Englewood",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":417,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":953
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5379524,
+"coordinate_uncertainty":null,
+"dirtmap":"0.5 km W of Carbon Canyon",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":418,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":954
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5332921,
+"adm2":5387890,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":419,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":955
 }
 ]
