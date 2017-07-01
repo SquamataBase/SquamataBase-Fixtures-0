@@ -7091,6 +7091,40 @@
 {
 "fields":{
 "adm0":3469034,
+"adm1":3471168,
+"adm2":6321086,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Serra do Conduru State Park",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":420
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3457415,
+"adm2":6323742,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Reserva Particular do Patrimo\u0302nio Natural Engenheiro Eliezer Batista",
+"point":null,
+"remark":null,
+"verbatim_coordinates":null,
+"verbatim_srid":null
+},
+"model":"Geography.namedplace",
+"pk":421
+},
+{
+"fields":{
+"adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
 "coordinate_uncertainty":null,
@@ -27965,5 +27999,137 @@
 },
 "model":"Geography.locality",
 "pk":955
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4736286,
+"adm2":5532186,
+"coordinate_uncertainty":null,
+"dirtmap":"TX highway 349, 4.5 road miles S TX FM 2400",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-101.89817 30.53378)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"30.533780\u00b0N -101.89817\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":956
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":4736286,
+"adm2":5523967,
+"coordinate_uncertainty":null,
+"dirtmap":"Gravel road leading to C. E. Miller Ranch, ca. 5.3 km W of Valentine",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-104.5481 30.58028)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"30.58028\u00b0N -104.54810\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":957
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3393098,
+"adm2":6319061,
+"coordinate_uncertainty":null,
+"dirtmap":"In a backyard at the border of the Reserva Biolo\u0301gica Guaribas \u2013 SEMA III",
+"elevation_end":"53.00",
+"elevation_start":"53.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-35.083389 -6.807333)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-6.807333\u00b0S -35.083389\u00b0W",
+"verbatim_elevation":"53 m",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":958
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3471168,
+"adm2":6321086,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":"192.00",
+"elevation_start":"192.00",
+"elevation_unit":38,
+"georeferenced_from":null,
+"named_place":420,
+"point":"SRID=4326;POINT (-39.135927 -14.490447)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-14.48999\u00b0S -39.13560\u00b0W",
+"verbatim_elevation":"192 m",
+"verbatim_srid":4291
+},
+"model":"Geography.locality",
+"pk":959
+},
+{
+"fields":{
+"adm0":6252001,
+"adm1":5417618,
+"adm2":5578884,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":null,
+"point":"SRID=4326;POINT (-105.167328 40.60145)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"40.60145\u00b0N -105.167328\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":960
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3457415,
+"adm2":6323742,
+"coordinate_uncertainty":null,
+"dirtmap":null,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":421,
+"point":"SRID=4326;POINT (-57.2829 -18.0526)",
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":"-18.0526\u00b0S -57.2829\u00b0W",
+"verbatim_elevation":null,
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":961
 }
 ]
