@@ -6457,6 +6457,22 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":1705
+},
+"model":"Bibliography.ref",
+"pk":811
+},
+{
+"fields":{
+"ref_type":5,
+"wb":1715
+},
+"model":"Bibliography.ref",
+"pk":812
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -21394,6 +21410,56 @@
 },
 "model":"Bibliography.person",
 "pk":1495
+},
+{
+"fields":{
+"first_name":"David L.",
+"first_name_ascii":"David L.",
+"last_name":"Jameson",
+"last_name_ascii":"Jameson"
+},
+"model":"Bibliography.person",
+"pk":1496
+},
+{
+"fields":{
+"first_name":"Aubrey M.",
+"first_name_ascii":"Aubrey M.",
+"last_name":"Jameson",
+"last_name_ascii":"Jameson"
+},
+"model":"Bibliography.person",
+"pk":1497
+},
+{
+"fields":{
+"first_name":"Diego F.",
+"first_name_ascii":"Diego F.",
+"last_name":"Muniz Da Silva",
+"last_name_ascii":"Muniz Da Silva"
+},
+"model":"Bibliography.person",
+"pk":1498
+},
+{
+"fields":{
+"first_name":"Fausto E.",
+"first_name_ascii":"Fausto E.",
+"last_name":"Barbo",
+"last_name_ascii":"Barbo"
+},
+"model":"Bibliography.person",
+"pk":1499
+},
+{
+"fields":{
+"first_name":"Danusa C.",
+"first_name_ascii":"Danusa C.",
+"last_name":"Maia",
+"last_name_ascii":"Maia"
+},
+"model":"Bibliography.person",
+"pk":1500
 },
 {
 "fields":{
@@ -40495,6 +40561,78 @@
 },
 {
 "fields":{
+"person":1496,
+"person_role":1,
+"ref":811
+},
+"model":"Bibliography.contribution",
+"pk":2134
+},
+{
+"fields":{
+"person":1497,
+"person_role":1,
+"ref":811
+},
+"model":"Bibliography.contribution",
+"pk":2135
+},
+{
+"fields":{
+"person":139,
+"person_role":1,
+"ref":812
+},
+"model":"Bibliography.contribution",
+"pk":2136
+},
+{
+"fields":{
+"person":1498,
+"person_role":1,
+"ref":812
+},
+"model":"Bibliography.contribution",
+"pk":2137
+},
+{
+"fields":{
+"person":1499,
+"person_role":1,
+"ref":812
+},
+"model":"Bibliography.contribution",
+"pk":2138
+},
+{
+"fields":{
+"person":1459,
+"person_role":1,
+"ref":812
+},
+"model":"Bibliography.contribution",
+"pk":2139
+},
+{
+"fields":{
+"person":1500,
+"person_role":1,
+"ref":812
+},
+"model":"Bibliography.contribution",
+"pk":2140
+},
+{
+"fields":{
+"person":1376,
+"person_role":1,
+"ref":812
+},
+"model":"Bibliography.contribution",
+"pk":2141
+},
+{
+"fields":{
 "isbn":"84-921999-2-X",
 "pages":126,
 "publisher":"Asociaci\u00f3n Herpetol\u00f3gica Espa\u00f1ola",
@@ -51976,5 +52114,33 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":810
+},
+{
+"fields":{
+"doi":null,
+"issue":"3",
+"journal":9,
+"page_end":"240",
+"page_start":"240",
+"title":"FOOD HABITS AND TOXICITY OF THE VENOM OF THE NIGHT SNAKE.",
+"volume":"12",
+"year_published":1956
+},
+"model":"Bibliography.journalarticle",
+"pk":811
+},
+{
+"fields":{
+"doi":null,
+"issue":"4",
+"journal":9,
+"page_end":"416",
+"page_start":"407",
+"title":"Ecology of the Colubrid Snake Spilotes pullatus from the Atlantic Forest of Southeastern Brazil",
+"volume":"70",
+"year_published":2014
+},
+"model":"Bibliography.journalarticle",
+"pk":812
 }
 ]
