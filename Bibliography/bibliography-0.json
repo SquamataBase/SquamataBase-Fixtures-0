@@ -6450,7 +6450,7 @@
 {
 "fields":{
 "ref_type":5,
-"wb":1685
+"wb":1688
 },
 "model":"Bibliography.ref",
 "pk":810
@@ -6470,6 +6470,22 @@
 },
 "model":"Bibliography.ref",
 "pk":812
+},
+{
+"fields":{
+"ref_type":5,
+"wb":1737
+},
+"model":"Bibliography.ref",
+"pk":813
+},
+{
+"fields":{
+"ref_type":5,
+"wb":1766
+},
+"model":"Bibliography.ref",
+"pk":814
 },
 {
 "fields":{
@@ -21460,6 +21476,36 @@
 },
 "model":"Bibliography.person",
 "pk":1500
+},
+{
+"fields":{
+"first_name":"Loana",
+"first_name_ascii":"Loana",
+"last_name":"Pastana Nascimento",
+"last_name_ascii":"Pastana Nascimento"
+},
+"model":"Bibliography.person",
+"pk":1501
+},
+{
+"fields":{
+"first_name":"D\u00e9bora",
+"first_name_ascii":"Debora",
+"last_name":"Mendes Siqueira",
+"last_name_ascii":"Mendes Siqueira"
+},
+"model":"Bibliography.person",
+"pk":1502
+},
+{
+"fields":{
+"first_name":"Maria Cristina",
+"first_name_ascii":"Maria Cristina",
+"last_name":"dos Santos-Costa",
+"last_name_ascii":"dos Santos-Costa"
+},
+"model":"Bibliography.person",
+"pk":1503
 },
 {
 "fields":{
@@ -40633,6 +40679,60 @@
 },
 {
 "fields":{
+"person":1501,
+"person_role":1,
+"ref":813
+},
+"model":"Bibliography.contribution",
+"pk":2142
+},
+{
+"fields":{
+"person":1502,
+"person_role":1,
+"ref":813
+},
+"model":"Bibliography.contribution",
+"pk":2143
+},
+{
+"fields":{
+"person":1503,
+"person_role":1,
+"ref":813
+},
+"model":"Bibliography.contribution",
+"pk":2144
+},
+{
+"fields":{
+"person":1502,
+"person_role":1,
+"ref":814
+},
+"model":"Bibliography.contribution",
+"pk":2145
+},
+{
+"fields":{
+"person":1501,
+"person_role":1,
+"ref":814
+},
+"model":"Bibliography.contribution",
+"pk":2146
+},
+{
+"fields":{
+"person":1503,
+"person_role":1,
+"ref":814
+},
+"model":"Bibliography.contribution",
+"pk":2147
+},
+{
+"fields":{
 "isbn":"84-921999-2-X",
 "pages":126,
 "publisher":"Asociaci\u00f3n Herpetol\u00f3gica Espa\u00f1ola",
@@ -52142,5 +52242,33 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":812
+},
+{
+"fields":{
+"doi":null,
+"issue":"3",
+"journal":19,
+"page_end":"174",
+"page_start":"168",
+"title":"Diet, Reproduction, and Sexual Dimorphism in the Vine Snake, Chironius fuscus (Serpentes: Colubridae), from Brazilian Amazonia",
+"volume":"8",
+"year_published":2013
+},
+"model":"Bibliography.journalarticle",
+"pk":813
+},
+{
+"fields":{
+"doi":null,
+"issue":"3",
+"journal":19,
+"page_end":"232",
+"page_start":"226",
+"title":"Feeding biology of Boddaert's tropical racer, Mastigodryas boddaerti (Serpentes, Colubridae) from the Brazilian Amazon",
+"volume":"7",
+"year_published":2012
+},
+"model":"Bibliography.journalarticle",
+"pk":814
 }
 ]
