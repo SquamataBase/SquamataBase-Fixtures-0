@@ -6617,6 +6617,22 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":1916
+},
+"model":"Bibliography.ref",
+"pk":831
+},
+{
+"fields":{
+"ref_type":5,
+"wb":1931
+},
+"model":"Bibliography.ref",
+"pk":832
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -21834,6 +21850,26 @@
 },
 "model":"Bibliography.person",
 "pk":1523
+},
+{
+"fields":{
+"first_name":"Robert L.",
+"first_name_ascii":"Robert L.",
+"last_name":"Seib",
+"last_name_ascii":"Seib"
+},
+"model":"Bibliography.person",
+"pk":1524
+},
+{
+"fields":{
+"first_name":"L. C.",
+"first_name_ascii":"L. C.",
+"last_name":"Stuart",
+"last_name_ascii":"Stuart"
+},
+"model":"Bibliography.person",
+"pk":1525
 },
 {
 "fields":{
@@ -41394,6 +41430,24 @@
 },
 {
 "fields":{
+"person":1524,
+"person_role":1,
+"ref":831
+},
+"model":"Bibliography.contribution",
+"pk":2185
+},
+{
+"fields":{
+"person":1525,
+"person_role":1,
+"ref":832
+},
+"model":"Bibliography.contribution",
+"pk":2186
+},
+{
+"fields":{
 "isbn":"84-921999-2-X",
 "pages":126,
 "publisher":"Asociaci\u00f3n Herpetol\u00f3gica Espa\u00f1ola",
@@ -41681,6 +41735,15 @@
 },
 "model":"Bibliography.journal",
 "pk":32
+},
+{
+"fields":{
+"issn":null,
+"journal_name":"Miscellaneous Publications of the Museum of Zoology University of Michigan",
+"prior_names":null
+},
+"model":"Bibliography.journal",
+"pk":33
 },
 {
 "fields":{
@@ -53245,5 +53308,33 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":830
+},
+{
+"fields":{
+"doi":null,
+"issue":"4",
+"journal":21,
+"page_end":"420",
+"page_start":"412",
+"title":"Prey Use in Three Syntopic Neotropical Racers",
+"volume":"18",
+"year_published":1984
+},
+"model":"Bibliography.journalarticle",
+"pk":831
+},
+{
+"fields":{
+"doi":null,
+"issue":null,
+"journal":33,
+"page_end":"109",
+"page_start":"1",
+"title":"The amphibians and reptiles of Alta Verapaz, Guatemala.",
+"volume":"69",
+"year_published":1948
+},
+"model":"Bibliography.journalarticle",
+"pk":832
 }
 ]
