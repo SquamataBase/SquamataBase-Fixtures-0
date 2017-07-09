@@ -6633,6 +6633,14 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":1968
+},
+"model":"Bibliography.ref",
+"pk":833
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -41448,6 +41456,24 @@
 },
 {
 "fields":{
+"person":835,
+"person_role":1,
+"ref":833
+},
+"model":"Bibliography.contribution",
+"pk":2187
+},
+{
+"fields":{
+"person":888,
+"person_role":1,
+"ref":833
+},
+"model":"Bibliography.contribution",
+"pk":2188
+},
+{
+"fields":{
 "isbn":"84-921999-2-X",
 "pages":126,
 "publisher":"Asociaci\u00f3n Herpetol\u00f3gica Espa\u00f1ola",
@@ -41744,6 +41770,15 @@
 },
 "model":"Bibliography.journal",
 "pk":33
+},
+{
+"fields":{
+"issn":null,
+"journal_name":"Boletim do Museu Nacional Rio de Janeiro Zoologia",
+"prior_names":""
+},
+"model":"Bibliography.journal",
+"pk":34
 },
 {
 "fields":{
@@ -53336,5 +53371,19 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":832
+},
+{
+"fields":{
+"doi":null,
+"issue":null,
+"journal":34,
+"page_end":"5",
+"page_start":"1",
+"title":"Dieta de Drymoluber dichrous (Peters, 1863) dos brejos-de-altitude do estado do Cear\u00e1, Brasil (Serpentes, Colubridae)",
+"volume":"468",
+"year_published":2001
+},
+"model":"Bibliography.journalarticle",
+"pk":833
 }
 ]

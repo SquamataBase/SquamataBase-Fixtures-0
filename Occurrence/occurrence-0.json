@@ -7431,6 +7431,57 @@
 {
 "fields":{
 "adm0":3469034,
+"adm1":3402362,
+"adm2":3395448,
+"elevation_end":"920.00",
+"elevation_start":"920.00",
+"elevation_unit":38,
+"place_name":"Pico da Rajada",
+"point":"SRID=4326;POINT (-38.722444 -3.895611)",
+"remark":"",
+"verbatim_coordinates":"-3\u00b053'44.2''S -38\u00b043'20.8''W",
+"verbatim_srid":4326
+},
+"model":"Geography.namedplace",
+"pk":440
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3402362,
+"adm2":3395448,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Serra de Maranguape",
+"point":"SRID=4326;POINT (-38.716667 -3.9)",
+"remark":"",
+"verbatim_coordinates":"-3\u00b054'S -38\u00b043'W",
+"verbatim_srid":4326
+},
+"model":"Geography.namedplace",
+"pk":441
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3402362,
+"adm2":3385872,
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"place_name":"Chapada da Ibiabapa",
+"point":"SRID=4326;POINT (-40.963889 -3.879722)",
+"remark":"",
+"verbatim_coordinates":"-3\u00b052'47''S -40\u00b057'50''W",
+"verbatim_srid":4326
+},
+"model":"Geography.namedplace",
+"pk":442
+},
+{
+"fields":{
+"adm0":3469034,
 "adm1":3451189,
 "adm2":6322011,
 "coordinate_uncertainty":null,
@@ -29229,5 +29280,71 @@
 },
 "model":"Geography.locality",
 "pk":997
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3402362,
+"adm2":3395448,
+"coordinate_uncertainty":null,
+"dirtmap":"Trilho Pico da Rajada",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":440,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":998
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3402362,
+"adm2":3395448,
+"coordinate_uncertainty":null,
+"dirtmap":"Linha da Serra",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":441,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":999
+},
+{
+"fields":{
+"adm0":3469034,
+"adm1":3402362,
+"adm2":3385872,
+"coordinate_uncertainty":null,
+"dirtmap":"Planato da Ibiapaba: Fazenda Buriti-INCRA",
+"elevation_end":null,
+"elevation_start":null,
+"elevation_unit":null,
+"georeferenced_from":null,
+"named_place":442,
+"point":null,
+"remark":"",
+"uncertainty_unit":null,
+"verbatim_coordinates":null,
+"verbatim_elevation":null,
+"verbatim_srid":null
+},
+"model":"Geography.locality",
+"pk":1000
 }
 ]
