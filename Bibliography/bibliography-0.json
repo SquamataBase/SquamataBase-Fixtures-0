@@ -6641,6 +6641,14 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":1999
+},
+"model":"Bibliography.ref",
+"pk":834
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -21878,6 +21886,16 @@
 },
 "model":"Bibliography.person",
 "pk":1525
+},
+{
+"fields":{
+"first_name":"Mauricio",
+"first_name_ascii":"Mauricio",
+"last_name":"Camargo",
+"last_name_ascii":"Camargo"
+},
+"model":"Bibliography.person",
+"pk":1526
 },
 {
 "fields":{
@@ -41474,6 +41492,24 @@
 },
 {
 "fields":{
+"person":726,
+"person_role":1,
+"ref":834
+},
+"model":"Bibliography.contribution",
+"pk":2189
+},
+{
+"fields":{
+"person":1526,
+"person_role":1,
+"ref":834
+},
+"model":"Bibliography.contribution",
+"pk":2190
+},
+{
+"fields":{
 "isbn":"84-921999-2-X",
 "pages":126,
 "publisher":"Asociaci\u00f3n Herpetol\u00f3gica Espa\u00f1ola",
@@ -41779,6 +41815,15 @@
 },
 "model":"Bibliography.journal",
 "pk":34
+},
+{
+"fields":{
+"issn":null,
+"journal_name":"Comunicacoes do Museu de Ciencias e Tecnologia da PUCRS Serie Zoologia",
+"prior_names":null
+},
+"model":"Bibliography.journal",
+"pk":35
 },
 {
 "fields":{
@@ -53385,5 +53430,19 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":833
+},
+{
+"fields":{
+"doi":null,
+"issue":"1",
+"journal":35,
+"page_end":"32",
+"page_start":"21",
+"title":"Habitos alimentares e comentarios sobre a predacao e reproducao das especies do genero Hydrops Wagler, 1830 (Serpentes: Colubridae).",
+"volume":"17",
+"year_published":2004
+},
+"model":"Bibliography.journalarticle",
+"pk":834
 }
 ]
