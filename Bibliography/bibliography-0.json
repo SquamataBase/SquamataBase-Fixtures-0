@@ -6673,6 +6673,14 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":2024
+},
+"model":"Bibliography.ref",
+"pk":838
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -21950,6 +21958,16 @@
 },
 "model":"Bibliography.person",
 "pk":1529
+},
+{
+"fields":{
+"first_name":"Harry W.",
+"first_name_ascii":"Harry W.",
+"last_name":"Greene",
+"last_name_ascii":"Greene"
+},
+"model":"Bibliography.person",
+"pk":1530
 },
 {
 "fields":{
@@ -41627,6 +41645,15 @@
 },
 {
 "fields":{
+"person":1530,
+"person_role":1,
+"ref":838
+},
+"model":"Bibliography.contribution",
+"pk":2198
+},
+{
+"fields":{
 "isbn":"84-921999-2-X",
 "pages":126,
 "publisher":"Asociaci\u00f3n Herpetol\u00f3gica Espa\u00f1ola",
@@ -41959,6 +41986,15 @@
 },
 "model":"Bibliography.journal",
 "pk":37
+},
+{
+"fields":{
+"issn":null,
+"journal_name":"The American Midland Naturalist",
+"prior_names":null
+},
+"model":"Bibliography.journal",
+"pk":38
 },
 {
 "fields":{
@@ -53621,5 +53657,19 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":837
+},
+{
+"fields":{
+"doi":null,
+"issue":"2",
+"journal":38,
+"page_end":"484",
+"page_start":"478",
+"title":"Ecological observations on the red coffee snake, Ninia sebae, in southern Veracruz, Mexico",
+"volume":"93",
+"year_published":1975
+},
+"model":"Bibliography.journalarticle",
+"pk":838
 }
 ]

@@ -29434,5 +29434,27 @@
 },
 "model":"Geography.locality",
 "pk":1004
+},
+{
+"fields":{
+"adm0":3996063,
+"adm1":3514780,
+"adm2":null,
+"coordinate_uncertainty":"3275.00",
+"dirtmap":"ca. 3.5 km SSE of Tebanca, a tiny village on the eastern shore of Lago Catemaco",
+"elevation_end":"750.00",
+"elevation_start":"350.00",
+"elevation_unit":38,
+"georeferenced_from":"GEOLocate web service",
+"named_place":null,
+"point":"SRID=4326;POINT (-95.00145500000001 18.370761)",
+"remark":"",
+"uncertainty_unit":38,
+"verbatim_coordinates":"18.370761\u00b0N -95.001455\u00b0W",
+"verbatim_elevation":"between the 350- and 750-m contour intervals on Andrle's (1967) map of the Tuxtla region",
+"verbatim_srid":4326
+},
+"model":"Geography.locality",
+"pk":1005
 }
 ]
