@@ -6681,6 +6681,14 @@
 },
 {
 "fields":{
+"ref_type":5,
+"wb":2037
+},
+"model":"Bibliography.ref",
+"pk":839
+},
+{
+"fields":{
 "first_name":"Rodrigo",
 "first_name_ascii":"Rodrigo",
 "last_name":"Castellari Gonzalez",
@@ -21968,6 +21976,16 @@
 },
 "model":"Bibliography.person",
 "pk":1530
+},
+{
+"fields":{
+"first_name":"Peter J.",
+"first_name_ascii":"Peter J.",
+"last_name":"Stafford",
+"last_name_ascii":"Stafford"
+},
+"model":"Bibliography.person",
+"pk":1531
 },
 {
 "fields":{
@@ -41654,6 +41672,15 @@
 },
 {
 "fields":{
+"person":1531,
+"person_role":1,
+"ref":839
+},
+"model":"Bibliography.contribution",
+"pk":2199
+},
+{
+"fields":{
 "isbn":"84-921999-2-X",
 "pages":126,
 "publisher":"Asociaci\u00f3n Herpetol\u00f3gica Espa\u00f1ola",
@@ -53671,5 +53698,19 @@
 },
 "model":"Bibliography.journalarticle",
 "pk":838
+},
+{
+"fields":{
+"doi":null,
+"issue":"3",
+"journal":5,
+"page_end":"111",
+"page_start":"101",
+"title":"Trophic ecology and reproduction in three species of neotropical forest racer (Dendrophidion; Colubridae)",
+"volume":"13",
+"year_published":2003
+},
+"model":"Bibliography.journalarticle",
+"pk":839
 }
 ]
